@@ -7,8 +7,9 @@
   --muted: #8d8d8d;
   --gold: #dba75c;
   --line: #262626;
-  --slab: "Aleo", Georgia, "Times New Roman", serif;
-  --body: "Roboto", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* Latin faces first; other scripts fall through to the clean system sans of each platform */
+  --slab: "Aleo", "Apple SD Gothic Neo", "Malgun Gothic", "Hiragino Sans", "Yu Gothic UI", "Meiryo", "Nirmala UI", sans-serif;
+  --body: "Roboto", "Apple SD Gothic Neo", "Malgun Gothic", "Hiragino Sans", "Yu Gothic UI", "Meiryo", "Nirmala UI", sans-serif;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
