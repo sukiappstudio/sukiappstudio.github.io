@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Builds the studio's own legal pages: privacy.html / terms.html (English) and privacy-ko.html,
 terms-ja.html, ... for the other languages. They cover this website and contacting the studio, and link to
-each app's own pages (one-wish-willow-*.html, wish-hertz-*.html), which are generated from each app's repo.
+each app's own pages (one-wish-willow-*.html, wish-hertz-*.html, toolbelt-*.html), which are generated from each app's repo.
 
 The folder starts with "_" so GitHub Pages does not publish it.
 Usage: python3 _tools/build_studio_pages.py      (writes into the repository root)
@@ -11,7 +11,7 @@ import html, os, re
 OUT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATE = "2026-10-18"
 EMAIL = "sukiappstudio@gmail.com"
-APPS = [("One Wish Willow", "one-wish-willow-"), ("Wish Hertz", "wish-hertz-")]
+APPS = [("One Wish Willow", "one-wish-willow-"), ("Wish Hertz", "wish-hertz-"), ("Toolbelt", "toolbelt-")]
 LANGS = [("en", "English"), ("ko", "한국어"), ("ja", "日本語"), ("pt", "Português (Brasil)"), ("ru", "Русский"),
          ("de", "Deutsch"), ("hi", "हिन्दी"), ("vi", "Tiếng Việt"), ("fr", "Français")]
 FOOTER = """<footer lang="en">
