@@ -11,7 +11,7 @@ import html, os, re
 OUT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATE = "2026-10-18"
 EMAIL = "sukiappstudio@gmail.com"
-APPS = [("One Wish Willow", "one-wish-willow-"), ("Wish Hertz", "wish-hertz-"), ("Toolbelt", "toolbelt-"), ("Docwell", "docwell-"), ("Trail Kit", "trail-kit-"), ("Lotto Sage", "lotto-sage-")]
+APPS = [("One Wish Willow", "one-wish-willow-"), ("Wish Hertz", "wish-hertz-"), ("Toolbelt", "toolbelt-"), ("Docwell", "docwell-"), ("Trail Kit", "trail-kit-"), ("Lotto Sage", "lotto-sage-"), ("Tide & Bite", "tide-and-bite-")]
 LANGS = [("en", "English"), ("ko", "한국어"), ("ja", "日本語"), ("pt", "Português (Brasil)"), ("ru", "Русский"),
          ("de", "Deutsch"), ("hi", "हिन्दी"), ("vi", "Tiếng Việt"), ("fr", "Français")]
 FOOTER = """<footer lang="en">
@@ -391,7 +391,7 @@ for doc, texts in TEXT.items():
         for line in text.split("\n"):
             if line == "{{APPS}}":
                 parts.append("  <ul>\n" + "\n".join(
-                    f'    <li><a href="{filename(doc, lang, prefix)}" lang="en">{name}</a></li>' for name, prefix in APPS)
+                    f'    <li><a href="{filename(doc, lang, prefix)}" lang="en">{html.escape(name)}</a></li>' for name, prefix in APPS)
                     + "\n  </ul>")
             elif line.startswith("# "):
                 title = line[2:]; parts.append(f"  <h1>{html.escape(title)}</h1>")
