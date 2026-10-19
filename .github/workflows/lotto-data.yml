@@ -1,0 +1,48 @@
+# Refreshes data/lotto-sage/ (the static mirror read by the 로또도사 Toss mini-app) from
+# www.dhlottery.co.kr. Install as .github/workflows/lotto-data.yml in sukiappstudio.github.io,
+# with the script at scripts/update_lotto_data.py.
+name: Lotto data
+
+on:
+  schedule:
+    # Saturday 21:00-00:59 KST: every 20 minutes after the 20:35 KST Lotto draw.
+    - cron: "*/20 12-15 * * 6"
+    # Sunday: every 6 hours, for prize amounts, winner stores and late corrections.
+    - cron: "0 */6 * * 0"
+    # Thursday 19:00-22:59 KST: every 30 minutes after the 19:05 KST pension draw.
+    - cron: "*/30 10-13 * * 4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lotto-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch new draws
+        run: python3 scripts/update_lotto_data.py --dir data/lotto-sage
+
+      - name: Commit and push when something changed
+        run: |
+          if [ -z "$(git status --porcelain -- data/lotto-sage)" ]; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- data/lotto-sage
+          git commit -m "Update lotto-sage data ($(TZ=Asia/Seoul date +'%Y-%m-%d %H:%M KST'))"
+          git pull --rebase --autostash
+          git push
