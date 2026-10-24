@@ -11,7 +11,7 @@ import html, os, re
 OUT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATE = "2026-10-18"
 EMAIL = "sukiappstudio@gmail.com"
-APPS = [("One Wish Willow", "one-wish-willow-"), ("Wish Hertz", "wish-hertz-"), ("Toolbelt", "toolbelt-"), ("Docwell", "docwell-"), ("Trail Kit", "trail-kit-"), ("Lotto Sage", "lotto-sage-"), ("Tide & Bite", "tide-and-bite-"), ("Pixel Press", "pixel-press-"), ("Pick Party", "pick-party-"), ("Fate Compass", "fate-compass-"), ("Saju Note", "saju-note-"), ("Mystic Lens", "mystic-lens-"), ("Lantern Tarot", "lantern-tarot-")]
+APPS = [("One Wish Willow", "one-wish-willow-"), ("Wish Hertz", "wish-hertz-"), ("Toolbelt", "toolbelt-"), ("Docwell", "docwell-"), ("Trail Kit", "trail-kit-"), ("Lotto Sage", "lotto-sage-"), ("Tide & Bite", "tide-and-bite-"), ("Pixel Press", "pixel-press-"), ("Pick Party", "pick-party-"), ("Fate Compass", "fate-compass-"), ("Saju Note", "saju-note-"), ("Mystic Lens", "mystic-lens-"), ("Lantern Tarot", "lantern-tarot-"), ("Slide 2048", "slide-2048-"), ("Endless Block Puzzle", "block-blast-endless-"), ("Water Sort Puzzle", "water-sort-puzzle-"), ("Mahjong Garden", "mahjong-solitaire-")]
 LANGS = [("en", "English"), ("ko", "한국어"), ("ja", "日本語"), ("pt", "Português (Brasil)"), ("ru", "Русский"),
          ("de", "Deutsch"), ("hi", "हिन्दी"), ("vi", "Tiếng Việt"), ("fr", "Français")]
 FOOTER = """<footer lang="en">
