@@ -1,0 +1,230 @@
+{
+ "version": 1,
+ "games": [
+  {
+   "id": "com.sukiappstudio.hexasortstack",
+   "names": {
+    "en": "Hexa Sort Stack",
+    "ko": "헥사 소트 스택",
+    "ja": "ヘキサソートスタック",
+    "pt": "Hexa Sort Stack",
+    "ru": "Гекса Сорт Стек",
+    "de": "Hexa Sort Stack",
+    "hi": "हेक्सा सॉर्ट स्टैक",
+    "vi": "Hexa Sort Stack",
+    "fr": "Hexa Sort Stack"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hexasortstack.png"
+  },
+  {
+   "id": "com.sukiappstudio.dropmergeblocks",
+   "names": {
+    "en": "Drop Merge Blocks",
+    "ko": "숫자 블록 드롭 머지",
+    "ja": "ドロップマージブロック",
+    "pt": "Drop Merge Blocos",
+    "ru": "Блоки: Дроп и Слияние",
+    "de": "Drop Merge Blöcke",
+    "hi": "ड्रॉप मर्ज ब्लॉक्स",
+    "vi": "Thả Gộp Khối",
+    "fr": "Drop Merge Blocs"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dropmergeblocks.png"
+  },
+  {
+   "id": "com.sukiappstudio.tripletilematch",
+   "names": {
+    "en": "Triple Tile Match",
+    "ko": "3타일 매치",
+    "ja": "トリプルタイル",
+    "pt": "Combina 3 Peças",
+    "ru": "Три плитки",
+    "de": "Dreier-Kacheln",
+    "hi": "ट्रिपल टाइल मैच",
+    "vi": "Ghép 3 Ô",
+    "fr": "Tuiles Triples"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tripletilematch.png"
+  },
+  {
+   "id": "com.sukiappstudio.tripeaksjourney",
+   "names": {
+    "en": "TriPeaks Journey",
+    "ko": "트라이픽스 저니",
+    "ja": "トライピークス・ジャーニー",
+    "pt": "Jornada TriPeaks",
+    "ru": "Путешествие TriPeaks",
+    "de": "TriPeaks-Reise",
+    "hi": "ट्राईपीक्स जर्नी",
+    "vi": "Hành trình TriPeaks",
+    "fr": "Voyage TriPeaks"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tripeaksjourney.png"
+  },
+  {
+   "id": "com.sukiappstudio.queensregionpuzzle",
+   "names": {
+    "en": "Queens Puzzle",
+    "ko": "퀸즈 퍼즐",
+    "ja": "クイーンパズル",
+    "pt": "Puzzle das Rainhas",
+    "ru": "Ферзи: головоломка",
+    "de": "Damen-Rätsel",
+    "hi": "क्वीन्स पहेली",
+    "vi": "Xếp Hậu",
+    "fr": "Puzzle des Reines"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.queensregionpuzzle.png"
+  },
+  {
+   "id": "com.sukiappstudio.ballnutsort",
+   "names": {
+    "en": "Ball Nut Sort",
+    "ko": "볼·너트 소트",
+    "ja": "ボール＆ナットソート",
+    "pt": "Ordenar Bolas e Porcas",
+    "ru": "Сортировка шаров и гаек",
+    "de": "Bälle &amp; Muttern sortieren",
+    "hi": "बॉल नट सॉर्ट",
+    "vi": "Xếp Bi và Ốc Vít",
+    "fr": "Tri Billes et Écrous"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ballnutsort.png"
+  },
+  {
+   "id": "com.sukiappstudio.pixelflowfill",
+   "names": {
+    "en": "Pixel Flow Fill",
+    "ko": "픽셀 플로우 필",
+    "ja": "ピクセルフローフィル",
+    "pt": "Pixel Flow Fill",
+    "ru": "Пиксельная заливка",
+    "de": "Pixel Flow Fill",
+    "hi": "पिक्सेल फ़्लो फ़िल",
+    "vi": "Pixel Flow Fill",
+    "fr": "Pixel Flow Fill"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.pixelflowfill.png"
+  },
+  {
+   "id": "com.sukiappstudio.blockblastendless",
+   "names": {
+    "en": "Endless Block Puzzle",
+    "ko": "블록 퍼즐 엔드리스",
+    "ja": "ブロックパズル エンドレス",
+    "pt": "Puzzle de Blocos Infinito",
+    "ru": "Бесконечный блок-пазл",
+    "de": "Endlos Block Puzzle",
+    "hi": "एंडलेस ब्लॉक पज़ल",
+    "vi": "Xếp Khối Vô Tận",
+    "fr": "Puzzle de Blocs Infini"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.blockblastendless.png"
+  },
+  {
+   "id": "com.sukiappstudio.mahjongsolitaire",
+   "names": {
+    "en": "Mahjong Garden",
+    "ko": "마작 정원",
+    "ja": "麻雀ガーデン",
+    "pt": "Mahjong Jardim",
+    "ru": "Маджонг Сад",
+    "de": "Mahjong Garten",
+    "hi": "माहजोंग गार्डन",
+    "vi": "Vườn Mạt Chược",
+    "fr": "Mahjong Jardin"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mahjongsolitaire.png"
+  },
+  {
+   "id": "com.sukiappstudio.watersortpuzzle",
+   "names": {
+    "en": "Water Sort Puzzle",
+    "ko": "워터 소트 퍼즐",
+    "ja": "ウォーターソート",
+    "pt": "Water Sort Puzzle",
+    "ru": "Сортировка воды",
+    "de": "Wasser sortieren",
+    "hi": "वॉटर सॉर्ट पज़ल",
+    "vi": "Xếp nước màu",
+    "fr": "Tri d\\'eau"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.watersortpuzzle.png"
+  },
+  {
+   "id": "com.sukiappstudio.slide2048",
+   "names": {
+    "en": "Slide 2048",
+    "ko": "슬라이드 2048",
+    "ja": "スライド2048",
+    "pt": "Slide 2048",
+    "ru": "Слайд 2048",
+    "de": "Slide 2048",
+    "hi": "स्लाइड 2048",
+    "vi": "Trượt 2048",
+    "fr": "Slide 2048"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.slide2048.png"
+  },
+  {
+   "id": "com.sukiappstudio.sudokuclassic",
+   "names": {
+    "en": "Sudoku Classic",
+    "ko": "스도쿠 클래식",
+    "ja": "ナンプレ クラシック",
+    "pt": "Sudoku Clássico",
+    "ru": "Судоку Классика",
+    "de": "Sudoku Klassik",
+    "hi": "सुडोकू क्लासिक",
+    "vi": "Sudoku Cổ Điển",
+    "fr": "Sudoku Classique"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.sudokuclassic.png"
+  },
+  {
+   "id": "com.sukiappstudio.classicsolitaire",
+   "names": {
+    "en": "Classic Solitaire Collection",
+    "ko": "클래식 솔리테어 모음",
+    "ja": "クラシック ソリティア集",
+    "pt": "Coleção Paciência Clássica",
+    "ru": "Классические пасьянсы",
+    "de": "Klassische Solitär-Sammlung",
+    "hi": "क्लासिक सॉलिटेयर संग्रह",
+    "vi": "Tuyển tập Solitaire cổ điển",
+    "fr": "Solitaires Classiques"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.classicsolitaire.png"
+  },
+  {
+   "id": "com.sukiappstudio.blocksudoku",
+   "names": {
+    "en": "Block Sudoku",
+    "ko": "블록 스도쿠",
+    "ja": "ブロック数独",
+    "pt": "Sudoku de Blocos",
+    "ru": "Блок-судоку",
+    "de": "Block-Sudoku",
+    "hi": "ब्लॉक सुडोकू",
+    "vi": "Sudoku Khối",
+    "fr": "Sudoku de Blocs"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.blocksudoku.png"
+  },
+  {
+   "id": "com.sukiappstudio.numbermatchpairs",
+   "names": {
+    "en": "Number Pairs",
+    "ko": "숫자 짝 지우기",
+    "ja": "ナンバーペア",
+    "pt": "Pares de Números",
+    "ru": "Числовые пары",
+    "de": "Zahlenpaare",
+    "hi": "नंबर जोड़ी",
+    "vi": "Xóa Cặp Số",
+    "fr": "Paires de Chiffres"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.numbermatchpairs.png"
+  }
+ ]
+}
