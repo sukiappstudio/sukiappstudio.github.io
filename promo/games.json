@@ -225,6 +225,109 @@
     "fr": "Paires de Chiffres"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.numbermatchpairs.png"
+  },
+  {
+   "id": "com.sukiappstudio.kokkurisan",
+   "names": {
+    "en": "Kokkuri-san",
+    "ko": "분신사바",
+    "ja": "コックリさん",
+    "pt": "Kokkuri-san",
+    "ru": "Коккури-сан",
+    "de": "Kokkuri-san",
+    "hi": "कोक्कुरी-सान",
+    "vi": "Kokkuri-san",
+    "fr": "Kokkuri-san"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.kokkurisan.png"
+  },
+  {
+   "id": "com.sukiappstudio.charliecharlie",
+   "names": {
+    "en": "Charlie Charlie Challenge",
+    "ko": "찰리 찰리 챌린지",
+    "ja": "チャーリー・チャーリー・チャレンジ",
+    "pt": "Charlie Charlie Challenge",
+    "ru": "Чарли Чарли Челлендж",
+    "de": "Charlie Charlie Challenge",
+    "hi": "चार्ली चार्ली चैलेंज",
+    "vi": "Charlie Charlie Challenge",
+    "fr": "Charlie Charlie Challenge"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.charliecharlie.png"
+  },
+  {
+   "id": "com.sukiappstudio.bloodymary",
+   "names": {
+    "en": "Bloody Mary",
+    "ko": "블러디 메리",
+    "ja": "ブラッディ・マリー",
+    "pt": "Bloody Mary",
+    "ru": "Кровавая Мэри",
+    "de": "Bloody Mary",
+    "hi": "ब्लडी मैरी",
+    "vi": "Bloody Mary",
+    "fr": "Bloody Mary"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.bloodymary.png"
+  },
+  {
+   "id": "com.sukiappstudio.elevatorgame",
+   "names": {
+    "en": "Elevator Game",
+    "ko": "엘리베이터 게임",
+    "ja": "エレベーターゲーム",
+    "pt": "Elevator Game",
+    "ru": "Elevator Game",
+    "de": "Elevator Game",
+    "fr": "Elevator Game"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.elevatorgame.png"
+  },
+  {
+   "id": "com.sukiappstudio.monkeyspaw",
+   "names": {
+    "en": "The Monkey\\'s Paw",
+    "ko": "원숭이 손",
+    "ja": "猿の手",
+    "pt": "A Pata do Macaco",
+    "ru": "Обезьянья лапка",
+    "de": "Die Affenpfote",
+    "hi": "बंदर का पंजा",
+    "vi": "Bàn tay khỉ",
+    "fr": "La Patte de singe"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.monkeyspaw.png"
+  },
+  {
+   "id": "com.sukiappstudio.midnightgame",
+   "names": {
+    "en": "The Midnight Game",
+    "ko": "미드나잇 게임",
+    "ja": "ミッドナイトゲーム",
+    "pt": "The Midnight Game",
+    "ru": "The Midnight Game",
+    "de": "The Midnight Game",
+    "hi": "The Midnight Game",
+    "vi": "The Midnight Game",
+    "fr": "The Midnight Game"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.midnightgame.png"
+  },
+  {
+   "id": "com.sukiappstudio.onewishwillow",
+   "names": {
+    "en": "One Wish Willow",
+    "ko": "원 위시 윌로우",
+    "ja": "ワン・ウィッシュ・ウィロー",
+    "pt": "One Wish Willow",
+    "ru": "Ива одного желания",
+    "de": "One Wish Willow",
+    "hi": "One Wish Willow",
+    "vi": "Liễu Ước Nguyện",
+    "fr": "One Wish Willow"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.onewishwillow.png"
   }
  ]
 }
