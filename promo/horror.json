@@ -111,6 +111,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.onewishwillow.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.ouijaboard",
+   "names": {
+    "en": "Ouija Board",
+    "ko": "위자 보드",
+    "ja": "ウィジャボード",
+    "pt": "Tabuleiro Ouija",
+    "ru": "Доска Уиджа",
+    "de": "Ouija-Brett",
+    "hi": "विजा बोर्ड",
+    "vi": "Bảng Ouija",
+    "fr": "Planche Ouija"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ouijaboard.png",
+   "group": "horror"
   }
  ]
 }
