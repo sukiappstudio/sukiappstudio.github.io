@@ -191,6 +191,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.threekings.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.hitorikakurenbo",
+   "names": {
+    "en": "Hitori Kakurenbo",
+    "ko": "혼자 숨바꼭질",
+    "ja": "ひとりかくれんぼ",
+    "pt": "Hitori Kakurenbo",
+    "ru": "Хитори какурэнбо",
+    "de": "Hitori Kakurenbo",
+    "hi": "हितोरी काकुरेंबो",
+    "vi": "Hitori Kakurenbo",
+    "fr": "Hitori Kakurenbo"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hitorikakurenbo.png",
+   "group": "horror"
   }
  ]
 }
