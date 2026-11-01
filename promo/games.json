@@ -1,5 +1,6 @@
 {
  "version": 1,
+ "group": "casual",
  "games": [
   {
    "id": "com.sukiappstudio.hexasortstack",
@@ -14,7 +15,8 @@
     "vi": "Hexa Sort Stack",
     "fr": "Hexa Sort Stack"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hexasortstack.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hexasortstack.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.dropmergeblocks",
@@ -29,7 +31,8 @@
     "vi": "Thả Gộp Khối",
     "fr": "Drop Merge Blocs"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dropmergeblocks.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dropmergeblocks.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.tripletilematch",
@@ -44,7 +47,8 @@
     "vi": "Ghép 3 Ô",
     "fr": "Tuiles Triples"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tripletilematch.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tripletilematch.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.tripeaksjourney",
@@ -59,7 +63,8 @@
     "vi": "Hành trình TriPeaks",
     "fr": "Voyage TriPeaks"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tripeaksjourney.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tripeaksjourney.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.queensregionpuzzle",
@@ -74,7 +79,8 @@
     "vi": "Xếp Hậu",
     "fr": "Puzzle des Reines"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.queensregionpuzzle.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.queensregionpuzzle.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.ballnutsort",
@@ -89,7 +95,8 @@
     "vi": "Xếp Bi và Ốc Vít",
     "fr": "Tri Billes et Écrous"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ballnutsort.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ballnutsort.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.pixelflowfill",
@@ -104,7 +111,8 @@
     "vi": "Pixel Flow Fill",
     "fr": "Pixel Flow Fill"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.pixelflowfill.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.pixelflowfill.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.blockblastendless",
@@ -119,7 +127,8 @@
     "vi": "Xếp Khối Vô Tận",
     "fr": "Puzzle de Blocs Infini"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.blockblastendless.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.blockblastendless.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.mahjongsolitaire",
@@ -134,7 +143,8 @@
     "vi": "Vườn Mạt Chược",
     "fr": "Mahjong Jardin"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mahjongsolitaire.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mahjongsolitaire.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.watersortpuzzle",
@@ -149,7 +159,8 @@
     "vi": "Xếp nước màu",
     "fr": "Tri d\\'eau"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.watersortpuzzle.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.watersortpuzzle.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.slide2048",
@@ -164,7 +175,8 @@
     "vi": "Trượt 2048",
     "fr": "Slide 2048"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.slide2048.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.slide2048.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.sudokuclassic",
@@ -179,7 +191,8 @@
     "vi": "Sudoku Cổ Điển",
     "fr": "Sudoku Classique"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.sudokuclassic.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.sudokuclassic.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.classicsolitaire",
@@ -194,7 +207,8 @@
     "vi": "Tuyển tập Solitaire cổ điển",
     "fr": "Solitaires Classiques"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.classicsolitaire.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.classicsolitaire.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.blocksudoku",
@@ -209,7 +223,8 @@
     "vi": "Sudoku Khối",
     "fr": "Sudoku de Blocs"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.blocksudoku.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.blocksudoku.png",
+   "group": "casual"
   },
   {
    "id": "com.sukiappstudio.numbermatchpairs",
@@ -224,110 +239,8 @@
     "vi": "Xóa Cặp Số",
     "fr": "Paires de Chiffres"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.numbermatchpairs.png"
-  },
-  {
-   "id": "com.sukiappstudio.kokkurisan",
-   "names": {
-    "en": "Kokkuri-san",
-    "ko": "분신사바",
-    "ja": "コックリさん",
-    "pt": "Kokkuri-san",
-    "ru": "Коккури-сан",
-    "de": "Kokkuri-san",
-    "hi": "कोक्कुरी-सान",
-    "vi": "Kokkuri-san",
-    "fr": "Kokkuri-san"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.kokkurisan.png"
-  },
-  {
-   "id": "com.sukiappstudio.charliecharlie",
-   "names": {
-    "en": "Charlie Charlie Challenge",
-    "ko": "찰리 찰리 챌린지",
-    "ja": "チャーリー・チャーリー・チャレンジ",
-    "pt": "Charlie Charlie Challenge",
-    "ru": "Чарли Чарли Челлендж",
-    "de": "Charlie Charlie Challenge",
-    "hi": "चार्ली चार्ली चैलेंज",
-    "vi": "Charlie Charlie Challenge",
-    "fr": "Charlie Charlie Challenge"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.charliecharlie.png"
-  },
-  {
-   "id": "com.sukiappstudio.bloodymary",
-   "names": {
-    "en": "Bloody Mary",
-    "ko": "블러디 메리",
-    "ja": "ブラッディ・マリー",
-    "pt": "Bloody Mary",
-    "ru": "Кровавая Мэри",
-    "de": "Bloody Mary",
-    "hi": "ब्लडी मैरी",
-    "vi": "Bloody Mary",
-    "fr": "Bloody Mary"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.bloodymary.png"
-  },
-  {
-   "id": "com.sukiappstudio.elevatorgame",
-   "names": {
-    "en": "Elevator Game",
-    "ko": "엘리베이터 게임",
-    "ja": "エレベーターゲーム",
-    "pt": "Elevator Game",
-    "ru": "Elevator Game",
-    "de": "Elevator Game",
-    "fr": "Elevator Game"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.elevatorgame.png"
-  },
-  {
-   "id": "com.sukiappstudio.monkeyspaw",
-   "names": {
-    "en": "The Monkey\\'s Paw",
-    "ko": "원숭이 손",
-    "ja": "猿の手",
-    "pt": "A Pata do Macaco",
-    "ru": "Обезьянья лапка",
-    "de": "Die Affenpfote",
-    "hi": "बंदर का पंजा",
-    "vi": "Bàn tay khỉ",
-    "fr": "La Patte de singe"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.monkeyspaw.png"
-  },
-  {
-   "id": "com.sukiappstudio.midnightgame",
-   "names": {
-    "en": "The Midnight Game",
-    "ko": "미드나잇 게임",
-    "ja": "ミッドナイトゲーム",
-    "pt": "The Midnight Game",
-    "ru": "The Midnight Game",
-    "de": "The Midnight Game",
-    "hi": "The Midnight Game",
-    "vi": "The Midnight Game",
-    "fr": "The Midnight Game"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.midnightgame.png"
-  },
-  {
-   "id": "com.sukiappstudio.onewishwillow",
-   "names": {
-    "en": "One Wish Willow",
-    "ko": "원 위시 윌로우",
-    "ja": "ワン・ウィッシュ・ウィロー",
-    "pt": "One Wish Willow",
-    "ru": "Ива одного желания",
-    "de": "One Wish Willow",
-    "hi": "One Wish Willow",
-    "vi": "Liễu Ước Nguyện",
-    "fr": "One Wish Willow"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.onewishwillow.png"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.numbermatchpairs.png",
+   "group": "casual"
   }
  ]
 }
