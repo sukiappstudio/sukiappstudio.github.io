@@ -3,6 +3,22 @@
  "group": "horror",
  "games": [
   {
+   "id": "com.sukiappstudio.ouijaboard",
+   "names": {
+    "en": "Ouija Board",
+    "ko": "위자 보드",
+    "ja": "ウィジャボード",
+    "pt": "Tabuleiro Ouija",
+    "ru": "Доска Уиджа",
+    "de": "Ouija-Brett",
+    "hi": "विजा बोर्ड",
+    "vi": "Bảng Ouija",
+    "fr": "Planche Ouija"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ouijaboard.png",
+   "group": "horror"
+  },
+  {
    "id": "com.sukiappstudio.kokkurisan",
    "names": {
     "en": "Kokkuri-san",
@@ -32,36 +48,6 @@
     "fr": "Charlie Charlie Challenge"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.charliecharlie.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.bloodymary",
-   "names": {
-    "en": "Bloody Mary",
-    "ko": "블러디 메리",
-    "ja": "ブラッディ・マリー",
-    "pt": "Bloody Mary",
-    "ru": "Кровавая Мэри",
-    "de": "Bloody Mary",
-    "hi": "ब्लडी मैरी",
-    "vi": "Bloody Mary",
-    "fr": "Bloody Mary"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.bloodymary.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.elevatorgame",
-   "names": {
-    "en": "Elevator Game",
-    "ko": "엘리베이터 게임",
-    "ja": "エレベーターゲーム",
-    "pt": "Elevator Game",
-    "ru": "Elevator Game",
-    "de": "Elevator Game",
-    "fr": "Elevator Game"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.elevatorgame.png",
    "group": "horror"
   },
   {
@@ -113,22 +99,6 @@
    "group": "horror"
   },
   {
-   "id": "com.sukiappstudio.ouijaboard",
-   "names": {
-    "en": "Ouija Board",
-    "ko": "위자 보드",
-    "ja": "ウィジャボード",
-    "pt": "Tabuleiro Ouija",
-    "ru": "Доска Уиджа",
-    "de": "Ouija-Brett",
-    "hi": "विजा बोर्ड",
-    "vi": "Bảng Ouija",
-    "fr": "Planche Ouija"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ouijaboard.png",
-   "group": "horror"
-  },
-  {
    "id": "com.sukiappstudio.hanakosan",
    "names": {
     "en": "Hanako-san",
@@ -174,38 +144,6 @@
     "fr": "Gare de Kisaragi"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.kisaragistation.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.threekings",
-   "names": {
-    "en": "Three Kings",
-    "ko": "쓰리 킹스",
-    "ja": "スリーキングス",
-    "pt": "Three Kings",
-    "ru": "Three Kings",
-    "de": "Three Kings",
-    "hi": "Three Kings",
-    "vi": "Three Kings",
-    "fr": "Three Kings"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.threekings.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.hitorikakurenbo",
-   "names": {
-    "en": "Hitori Kakurenbo",
-    "ko": "혼자 숨바꼭질",
-    "ja": "ひとりかくれんぼ",
-    "pt": "Hitori Kakurenbo",
-    "ru": "Хитори какурэнбо",
-    "de": "Hitori Kakurenbo",
-    "hi": "हितोरी काकुरेंबो",
-    "vi": "Hitori Kakurenbo",
-    "fr": "Hitori Kakurenbo"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hitorikakurenbo.png",
    "group": "horror"
   }
  ]
