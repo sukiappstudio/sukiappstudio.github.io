@@ -102,6 +102,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mirrormirror.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.loveoracle",
+   "names": {
+    "en": "Love Oracle: Valentine Rituals",
+    "ko": "사랑의 신탁: 밸런타인 의식",
+    "ja": "恋の託宣：バレンタインの儀式",
+    "pt": "Oráculo do Amor: Rituais",
+    "ru": "Оракул любви: ритуалы",
+    "de": "Liebesorakel: Valentinsrituale",
+    "hi": "प्रेम का ओरेकल: वैलेंटाइन रस्में",
+    "vi": "Lời Sấm Tình Yêu: Nghi Thức",
+    "fr": "Oracle d\\'amour : rituels"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.loveoracle.png",
+   "group": "mystery"
   }
  ]
 }
