@@ -167,6 +167,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ichingcoins.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.yutoracle",
+   "names": {
+    "en": "Yut Oracle: Lunar New Year",
+    "ko": "윷점: 설날 운세",
+    "ja": "ユンノリ占い：旧正月の運勢",
+    "pt": "Oráculo Yut: Ano Novo Lunar",
+    "ru": "Оракул Ют: Лунный Новый год",
+    "de": "Yut-Orakel: Mondneujahr",
+    "hi": "युत ओरेकल: चंद्र नववर्ष शगुन",
+    "vi": "Bói Yut: Vận Năm Mới",
+    "fr": "Oracle du Yut : Nouvel An"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.yutoracle.png",
+   "group": "mystery"
   }
  ]
 }
