@@ -177,6 +177,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostphoto.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.seancemessenger",
+   "names": {
+    "en": "Séance Messenger",
+    "ko": "강령 메신저",
+    "ja": "交霊メッセンジャー",
+    "pt": "Mensageiro da Sessão",
+    "ru": "Спиритический мессенджер",
+    "de": "Séance Messenger",
+    "hi": "आत्मा संदेशवाहक",
+    "vi": "Tin Nhắn Gọi Hồn",
+    "fr": "Messager de Séance"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.seancemessenger.png",
+   "group": "horror"
   }
  ]
 }
