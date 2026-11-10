@@ -86,6 +86,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mechanicalseer.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.mirrormirror",
+   "names": {
+    "en": "Mirror, Mirror",
+    "ko": "거울아 거울아",
+    "ja": "鏡よ鏡",
+    "pt": "Espelho, Espelho",
+    "ru": "Свет мой, зеркальце",
+    "de": "Spieglein, Spieglein",
+    "hi": "आईना, आईना",
+    "vi": "Gương Ơi Gương",
+    "fr": "Miroir, mon miroir"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mirrormirror.png",
+   "group": "mystery"
   }
  ]
 }
