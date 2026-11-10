@@ -209,6 +209,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.darumasan.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.spiritflashlight",
+   "names": {
+    "en": "Spirit Flashlight",
+    "ko": "영혼의 손전등",
+    "ja": "霊の懐中電灯",
+    "pt": "Lanterna dos Espíritos",
+    "ru": "Фонарик духов",
+    "de": "Geister-Taschenlampe",
+    "hi": "आत्मा की टॉर्च",
+    "vi": "Đèn Pin Linh Hồn",
+    "fr": "Lampe des Esprits"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritflashlight.png",
+   "group": "horror"
   }
  ]
 }
