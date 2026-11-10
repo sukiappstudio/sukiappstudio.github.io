@@ -118,6 +118,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.loveoracle.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.tomteporridge",
+   "names": {
+    "en": "Tomte: Yule Porridge",
+    "ko": "톰테: 크리스마스 죽",
+    "ja": "トムテ：ユールの粥",
+    "pt": "Tomte: Mingau de Natal",
+    "ru": "Томте: рождественская каша",
+    "de": "Tomte: Weihnachtsbrei",
+    "hi": "टोम्टे: क्रिसमस की खीर",
+    "vi": "Tomte: Cháo Đêm Giáng Sinh",
+    "fr": "Tomte : la bouillie de Noël"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tomteporridge.png",
+   "group": "mystery"
   }
  ]
 }
