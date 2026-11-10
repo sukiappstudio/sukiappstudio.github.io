@@ -52,6 +52,24 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.coffeefortune.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.dreamoracle",
+   "names": {
+    "en": "Dream Oracle: Night Journal",
+    "ko": "꿈의 신탁: 밤의 일지",
+    "ja": "夢の託宣：夜の日誌",
+    "pt": "Oráculo dos Sonhos: Diário",
+    "ru": "Оракул снов: ночной дневник",
+    "de": "Traumorakel: Nachtjournal",
+    "hi": "स्वप्न ओरेकल: रात की डायरी",
+    "vi": "Sách Giải Mộng: Nhật Ký Đêm",
+    "fr": "Oracle des Rêves : Journal",
+    "tr": "Rüya Kehaneti: Gece Günlüğü",
+    "ar": "عرّاف الأحلام: دفتر الليل"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dreamoracle.png",
+   "group": "mystery"
   }
  ]
 }
