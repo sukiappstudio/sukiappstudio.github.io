@@ -183,6 +183,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.yutoracle.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.fortunecookie",
+   "names": {
+    "en": "Fortune Cookie: Midnight Bakery",
+    "ko": "포춘 쿠키: 자정의 제과점",
+    "ja": "フォーチュンクッキー：真夜中のベーカリー",
+    "pt": "Biscoito da Sorte: Padaria da Meia-Noite",
+    "ru": "Печенье с предсказанием: Пекарня в полночь",
+    "de": "Glückskeks: Bäckerei um Mitternacht",
+    "hi": "फ़ॉर्च्यून कुकी: आधी रात की बेकरी",
+    "vi": "Bánh Quy May Mắn: Tiệm Bánh Nửa Đêm",
+    "fr": "Fortune Cookie : Boulangerie de minuit"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.fortunecookie.png",
+   "group": "mystery"
   }
  ]
 }
