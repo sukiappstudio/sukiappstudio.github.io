@@ -151,6 +151,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tealeaves.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.ichingcoins",
+   "names": {
+    "en": "I Ching: Three Coins",
+    "ko": "주역: 세 개의 동전",
+    "ja": "易経：三枚のコイン",
+    "pt": "I Ching: Três Moedas",
+    "ru": "И-цзин: три монеты",
+    "de": "I Ging: Drei Münzen",
+    "hi": "आई चिंग: तीन सिक्के",
+    "vi": "Kinh Dịch: Ba Đồng Xu",
+    "fr": "Yi King : Trois pièces"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ichingcoins.png",
+   "group": "mystery"
   }
  ]
 }
