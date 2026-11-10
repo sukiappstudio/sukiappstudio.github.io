@@ -134,6 +134,23 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tomteporridge.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.tealeaves",
+   "names": {
+    "en": "Tea Leaves: Parlour Reading",
+    "ko": "찻잎 점: 응접실의 점술",
+    "ja": "茶葉占い：英国の客間",
+    "pt": "Leitura das Folhas de Chá",
+    "ru": "Чаинки: гадание в гостиной",
+    "de": "Teesatzlesen im Salon",
+    "hi": "चाय की पत्तियाँ: बैठक का शगुन",
+    "vi": "Bói Lá Trà: Phòng Khách Xưa",
+    "fr": "Lecture des feuilles de thé",
+    "tr": "Çay Yaprakları: Salon Falı"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tealeaves.png",
+   "group": "mystery"
   }
  ]
 }
