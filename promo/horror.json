@@ -193,6 +193,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.seancemessenger.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.darumasan",
+   "names": {
+    "en": "Daruma-san",
+    "ko": "다루마상",
+    "ja": "だるまさん",
+    "pt": "Daruma-san",
+    "ru": "Дарума-сан",
+    "de": "Daruma-san",
+    "hi": "दारुमा-सान",
+    "vi": "Daruma-san",
+    "fr": "Daruma-san"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.darumasan.png",
+   "group": "horror"
   }
  ]
 }
