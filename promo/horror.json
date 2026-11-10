@@ -225,6 +225,23 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritflashlight.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.veronicamirror",
+   "names": {
+    "en": "Verónica: Scissors Mirror",
+    "es": "Verónica: Espejo de Tijeras",
+    "ko": "베로니카: 가위와 거울",
+    "ja": "ベロニカ：鋏と鏡の儀式",
+    "pt": "Verónica: Espelho e Tesoura",
+    "ru": "Вероника: зеркало и ножницы",
+    "de": "Verónica: Scherenspiegel",
+    "hi": "वेरोनिका: कैंची और आईना",
+    "vi": "Verónica: Gương Và Kéo",
+    "fr": "Verónica : miroir aux ciseaux"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.veronicamirror.png",
+   "group": "horror"
   }
  ]
 }
