@@ -161,6 +161,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.krampusnacht.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.ghostphoto",
+   "names": {
+    "en": "Ghost Photo: Haunted Frame",
+    "ko": "유령 사진: 심령 사진관",
+    "ja": "ゴーストフォト：心霊写真館",
+    "pt": "Foto Fantasma: Quadro Maldito",
+    "ru": "Фото призрака: Проклятый кадр",
+    "de": "Geisterfoto: Der Spukrahmen",
+    "hi": "घोस्ट फ़ोटो: हॉन्टेड फ़्रेम",
+    "vi": "Ảnh Ma: Khung Hình Bị Ám",
+    "fr": "Photo Fantôme : Cadre Hanté"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostphoto.png",
+   "group": "horror"
   }
  ]
 }
