@@ -70,6 +70,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dreamoracle.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.mechanicalseer",
+   "names": {
+    "en": "The Mechanical Seer",
+    "ko": "기계 예언자",
+    "ja": "機械じかけの占い師",
+    "pt": "O Vidente Mecânico",
+    "ru": "Механический провидец",
+    "de": "Der Mechanische Seher",
+    "hi": "यांत्रिक भविष्यवक्ता",
+    "vi": "Nhà Tiên Tri Máy",
+    "fr": "Le Voyant Mécanique"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mechanicalseer.png",
+   "group": "mystery"
   }
  ]
 }
