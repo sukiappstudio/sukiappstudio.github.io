@@ -1,0 +1,57 @@
+{
+ "version": 1,
+ "group": "mystery",
+ "games": [
+  {
+   "id": "com.sukiappstudio.runecast",
+   "names": {
+    "en": "Rune Cast: Norse Oracle",
+    "ko": "룬 점: 북구의 신탁",
+    "ja": "ルーン占い：北欧の神託",
+    "pt": "Runas: Oráculo Nórdico",
+    "ru": "Руны: северный оракул",
+    "de": "Runenwurf: Nordisches Orakel",
+    "hi": "रून कास्ट: नॉर्स ओरेकल",
+    "vi": "Gieo Rune: Lời Sấm Bắc Âu",
+    "fr": "Runes : oracle nordique",
+    "sv": "Runkast: Nordiskt orakel",
+    "nb": "Runekast: Nordisk orakel",
+    "no": "Runekast: Nordisk orakel"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.runecast.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.crystalball",
+   "names": {
+    "en": "Crystal Ball: Seer's Tent",
+    "ko": "수정구슬: 점술사의 천막",
+    "ja": "水晶玉：占い師の天幕",
+    "pt": "Bola de Cristal",
+    "ru": "Хрустальный шар",
+    "de": "Kristallkugel",
+    "hi": "क्रिस्टल बॉल",
+    "vi": "Quả Cầu Pha Lê",
+    "fr": "Boule de cristal"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.crystalball.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.coffeefortune",
+   "names": {
+    "en": "Coffee Cup Reading",
+    "ko": "커피 점",
+    "ja": "コーヒー占い",
+    "pt": "Leitura da Borra de Café",
+    "ru": "Гадание на кофейной гуще",
+    "de": "Kaffeesatz lesen",
+    "hi": "कॉफ़ी कप रीडिंग",
+    "vi": "Bói Bã Cà Phê",
+    "fr": "Lecture du marc de café"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.coffeefortune.png",
+   "group": "mystery"
+  }
+ ]
+}
