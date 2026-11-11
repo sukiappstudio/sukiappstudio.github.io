@@ -179,6 +179,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.wishingwell.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.nightfallalarm",
+   "names": {
+    "en": "Nightfall Alarm: Haunted Wake-Up",
+    "ko": "밤의 알람: 유령이 깨우는 아침",
+    "ja": "夜の目覚まし：幽霊が起こしに来る",
+    "pt": "Alarme da Noite: Despertar Assombrado",
+    "ru": "Ночной будильник: призрак разбудит",
+    "de": "Nachtwecker: Spuk am Morgen",
+    "hi": "रात का अलार्म: भूतिया सुबह",
+    "vi": "Báo Thức Đêm: Ma Gọi Dậy",
+    "fr": "Nightfall : Réveil Hanté"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.nightfallalarm.png",
+   "group": "horror"
   }
  ]
 }
