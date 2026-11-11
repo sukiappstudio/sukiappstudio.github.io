@@ -1,0 +1,221 @@
+{
+ "version": 1,
+ "group": "mystery",
+ "note": "release-ready apps; move into mystery.json when live on Play",
+ "games": [
+  {
+   "id": "com.sukiappstudio.runecast",
+   "names": {
+    "en": "Rune Cast: Norse Oracle",
+    "ko": "룬 점: 북구의 신탁",
+    "ja": "ルーン占い：北欧の神託",
+    "pt": "Runas: Oráculo Nórdico",
+    "ru": "Руны: северный оракул",
+    "de": "Runenwurf: Nordisches Orakel",
+    "hi": "रून कास्ट: नॉर्स ओरेकल",
+    "vi": "Gieo Rune: Lời Sấm Bắc Âu",
+    "fr": "Runes : oracle nordique",
+    "sv": "Runkast: Nordiskt orakel",
+    "nb": "Runekast: Nordisk orakel",
+    "no": "Runekast: Nordisk orakel"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.runecast.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.coffeefortune",
+   "names": {
+    "en": "Coffee Cup Reading",
+    "ko": "커피 점",
+    "ja": "コーヒー占い",
+    "pt": "Leitura da Borra de Café",
+    "ru": "Гадание на кофейной гуще",
+    "de": "Kaffeesatz lesen",
+    "hi": "कॉफ़ी कप रीडिंग",
+    "vi": "Bói Bã Cà Phê",
+    "fr": "Lecture du marc de café"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.coffeefortune.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.dreamoracle",
+   "names": {
+    "en": "Dream Oracle: Night Journal",
+    "ko": "꿈의 신탁: 밤의 일지",
+    "ja": "夢の託宣：夜の日誌",
+    "pt": "Oráculo dos Sonhos: Diário",
+    "ru": "Оракул снов: ночной дневник",
+    "de": "Traumorakel: Nachtjournal",
+    "hi": "स्वप्न ओरेकल: रात की डायरी",
+    "vi": "Sách Giải Mộng: Nhật Ký Đêm",
+    "fr": "Oracle des Rêves : Journal",
+    "tr": "Rüya Kehaneti: Gece Günlüğü",
+    "ar": "عرّاف الأحلام: دفتر الليل"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dreamoracle.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.mechanicalseer",
+   "names": {
+    "en": "The Mechanical Seer",
+    "ko": "기계 예언자",
+    "ja": "機械じかけの占い師",
+    "pt": "O Vidente Mecânico",
+    "ru": "Механический провидец",
+    "de": "Der Mechanische Seher",
+    "hi": "यांत्रिक भविष्यवक्ता",
+    "vi": "Nhà Tiên Tri Máy",
+    "fr": "Le Voyant Mécanique"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mechanicalseer.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.mirrormirror",
+   "names": {
+    "en": "Mirror, Mirror",
+    "ko": "거울아 거울아",
+    "ja": "鏡よ鏡",
+    "pt": "Espelho, Espelho",
+    "ru": "Свет мой, зеркальце",
+    "de": "Spieglein, Spieglein",
+    "hi": "आईना, आईना",
+    "vi": "Gương Ơi Gương",
+    "fr": "Miroir, mon miroir"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mirrormirror.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.loveoracle",
+   "names": {
+    "en": "Love Oracle: Valentine Rituals",
+    "ko": "사랑의 신탁: 밸런타인 의식",
+    "ja": "恋の託宣：バレンタインの儀式",
+    "pt": "Oráculo do Amor: Rituais",
+    "ru": "Оракул любви: ритуалы",
+    "de": "Liebesorakel: Valentinsrituale",
+    "hi": "प्रेम का ओरेकल: वैलेंटाइन रस्में",
+    "vi": "Lời Sấm Tình Yêu: Nghi Thức",
+    "fr": "Oracle d’amour : rituels"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.loveoracle.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.tomteporridge",
+   "names": {
+    "en": "Tomte: Yule Porridge",
+    "ko": "톰테: 크리스마스 죽",
+    "ja": "トムテ：ユールの粥",
+    "pt": "Tomte: Mingau de Natal",
+    "ru": "Томте: рождественская каша",
+    "de": "Tomte: Weihnachtsbrei",
+    "hi": "टोम्टे: क्रिसमस की खीर",
+    "vi": "Tomte: Cháo Đêm Giáng Sinh",
+    "fr": "Tomte : la bouillie de Noël"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tomteporridge.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.tealeaves",
+   "names": {
+    "en": "Tea Leaves: Parlour Reading",
+    "ko": "찻잎 점: 응접실의 점술",
+    "ja": "茶葉占い：英国の客間",
+    "pt": "Leitura das Folhas de Chá",
+    "ru": "Чаинки: гадание в гостиной",
+    "de": "Teesatzlesen im Salon",
+    "hi": "चाय की पत्तियाँ: बैठक का शगुन",
+    "vi": "Bói Lá Trà: Phòng Khách Xưa",
+    "fr": "Lecture des feuilles de thé",
+    "tr": "Çay Yaprakları: Salon Falı"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tealeaves.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.ichingcoins",
+   "names": {
+    "en": "I Ching: Three Coins",
+    "ko": "주역: 세 개의 동전",
+    "ja": "易経：三枚のコイン",
+    "pt": "I Ching: Três Moedas",
+    "ru": "И-цзин: три монеты",
+    "de": "I Ging: Drei Münzen",
+    "hi": "आई चिंग: तीन सिक्के",
+    "vi": "Kinh Dịch: Ba Đồng Xu",
+    "fr": "Yi King : Trois pièces"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ichingcoins.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.yutoracle",
+   "names": {
+    "en": "Yut Oracle: Lunar New Year",
+    "ko": "윷점: 설날 운세",
+    "ja": "ユンノリ占い：旧正月の運勢",
+    "pt": "Oráculo Yut: Ano Novo Lunar",
+    "ru": "Оракул Ют: Лунный Новый год",
+    "de": "Yut-Orakel: Mondneujahr",
+    "hi": "युत ओरेकल: चंद्र नववर्ष शगुन",
+    "vi": "Bói Yut: Vận Năm Mới",
+    "fr": "Oracle du Yut : Nouvel An"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.yutoracle.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.fortunecookie",
+   "names": {
+    "en": "Fortune Cookie: Midnight Bakery",
+    "ko": "포춘 쿠키: 자정의 제과점",
+    "ja": "フォーチュンクッキー：真夜中のベーカリー",
+    "pt": "Biscoito da Sorte: Padaria da Meia-Noite",
+    "ru": "Печенье с предсказанием: Пекарня в полночь",
+    "de": "Glückskeks: Bäckerei um Mitternacht",
+    "hi": "फ़ॉर्च्यून कुकी: आधी रात की बेकरी",
+    "vi": "Bánh Quy May Mắn: Tiệm Bánh Nửa Đêm",
+    "fr": "Fortune Cookie : Boulangerie de minuit"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.fortunecookie.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.candleoracle",
+   "names": {
+    "en": "Candle Oracle: Flame & Smoke",
+    "ko": "촛불 신탁: 불꽃과 연기",
+    "ja": "キャンドル・オラクル：炎と煙",
+    "pt": "Oráculo da Vela: Chama e Fumaça",
+    "ru": "Оракул свечи: пламя и дым",
+    "de": "Kerzenorakel: Flamme & Rauch",
+    "hi": "कैंडल ओरेकल: लौ और धुआँ",
+    "vi": "Sấm Nến: Lửa và Khói",
+    "fr": "Oracle de la bougie : flamme et fumée"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.candleoracle.png",
+   "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.luckydayalmanac",
+   "names": {
+    "en": "Lucky Day Almanac",
+    "ko": "길일 달력",
+    "ja": "六曜カレンダー",
+    "pt": "Almanaque dos Dias de Sorte",
+    "ru": "Альманах счастливых дней",
+    "de": "Glückstage-Almanach",
+    "hi": "शुभ दिन पंचांग",
+    "vi": "Lịch Ngày Tốt",
+    "fr": "Almanach des jours fastes"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.luckydayalmanac.png",
+   "group": "mystery"
+  }
+ ]
+}
