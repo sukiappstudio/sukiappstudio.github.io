@@ -1,0 +1,168 @@
+{
+ "version": 1,
+ "group": "horror",
+ "note": "release-ready apps; move into horror.json when live on Play",
+ "games": [
+  {
+   "id": "com.sukiappstudio.krampusnacht",
+   "names": {
+    "en": "Krampusnacht: The Naughty List",
+    "ko": "크람푸스의 밤: 나쁜 아이 명단",
+    "ja": "クランプスの夜: 悪い子リスト",
+    "pt": "Krampusnacht: A Lista Negra",
+    "ru": "Крампуснахт: чёрный список",
+    "de": "Krampusnacht: Die schwarze Liste",
+    "hi": "Krampusnacht: काली सूची",
+    "vi": "Krampusnacht: Danh sách đen",
+    "fr": "Krampusnacht : La liste noire"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.krampusnacht.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.ghostphoto",
+   "names": {
+    "en": "Ghost Photo: Haunted Frame",
+    "ko": "유령 사진: 심령 사진관",
+    "ja": "ゴーストフォト：心霊写真館",
+    "pt": "Foto Fantasma: Quadro Maldito",
+    "ru": "Фото призрака: Проклятый кадр",
+    "de": "Geisterfoto: Der Spukrahmen",
+    "hi": "घोस्ट फ़ोटो: हॉन्टेड फ़्रेम",
+    "vi": "Ảnh Ma: Khung Hình Bị Ám",
+    "fr": "Photo Fantôme : Cadre Hanté"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostphoto.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.seancemessenger",
+   "names": {
+    "en": "Séance Messenger",
+    "ko": "강령 메신저",
+    "ja": "交霊メッセンジャー",
+    "pt": "Mensageiro da Sessão",
+    "ru": "Спиритический мессенджер",
+    "de": "Séance Messenger",
+    "hi": "आत्मा संदेशवाहक",
+    "vi": "Tin Nhắn Gọi Hồn",
+    "fr": "Messager de Séance"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.seancemessenger.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.darumasan",
+   "names": {
+    "en": "Daruma-san",
+    "ko": "다루마상",
+    "ja": "だるまさん",
+    "pt": "Daruma-san",
+    "ru": "Дарума-сан",
+    "de": "Daruma-san",
+    "hi": "दारुमा-सान",
+    "vi": "Daruma-san",
+    "fr": "Daruma-san"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.darumasan.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.spiritflashlight",
+   "names": {
+    "en": "Spirit Flashlight",
+    "ko": "영혼의 손전등",
+    "ja": "霊の懐中電灯",
+    "pt": "Lanterna dos Espíritos",
+    "ru": "Фонарик духов",
+    "de": "Geister-Taschenlampe",
+    "hi": "आत्मा की टॉर्च",
+    "vi": "Đèn Pin Linh Hồn",
+    "fr": "Lampe des Esprits"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritflashlight.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.veronicamirror",
+   "names": {
+    "en": "Verónica: Scissors Mirror",
+    "es": "Verónica: Espejo de Tijeras",
+    "ko": "베로니카: 가위와 거울",
+    "ja": "ベロニカ：鋏と鏡の儀式",
+    "pt": "Verónica: Espelho e Tesoura",
+    "ru": "Вероника: зеркало и ножницы",
+    "de": "Verónica: Scherenspiegel",
+    "hi": "वेरोनिका: कैंची और आईना",
+    "vi": "Verónica: Gương Và Kéo",
+    "fr": "Verónica : miroir aux ciseaux"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.veronicamirror.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.hauntedroom",
+   "names": {
+    "en": "Haunted Room: Horror Soundscape",
+    "ko": "유령의 방: 공포 사운드스케이프",
+    "ja": "幽霊の部屋：ホラー・サウンドスケープ",
+    "pt": "Haunted Room: Sons de Terror",
+    "ru": "Haunted Room: звуки ужаса",
+    "de": "Haunted Room: Horror-Klangwelt",
+    "hi": "Haunted Room: डरावनी आवाज़ें",
+    "vi": "Haunted Room: Âm Thanh Kinh Dị",
+    "fr": "Haunted Room : ambiance d'horreur"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hauntedroom.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.possessedvoice",
+   "names": {
+    "en": "Possessed Voice: Horror Voice",
+    "ko": "빙의된 목소리: 공포 음성 변조",
+    "ja": "憑依の声：ホラー ボイスチェンジャー",
+    "pt": "Voz Possuída: Voz de Terror",
+    "ru": "Одержимый голос: хоррор-голос",
+    "de": "Besessene Stimme: Horrorstimme",
+    "hi": "आविष्ट आवाज़: हॉरर वॉइस चेंजर",
+    "vi": "Giọng Bị Ám: Đổi Giọng Kinh Dị",
+    "fr": "Voix Possédée : voix d'horreur"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.possessedvoice.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.scarymaze",
+   "names": {
+    "en": "Steady Hand: The Scary Maze",
+    "ko": "공포 미로: 떨리는 손",
+    "ja": "震える手：恐怖の迷路",
+    "pt": "Mão Firme: Labirinto do Medo",
+    "ru": "Твёрдая рука: Страшный лабиринт",
+    "de": "Ruhige Hand: Das Grusellabyrinth",
+    "hi": "स्टेडी हैंड: डरावनी भूलभुलैया",
+    "vi": "Tay Vững: Mê Cung Kinh Hoàng",
+    "fr": "Main ferme : Le labyrinthe de la peur"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.scarymaze.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.paranormalcasefiles",
+   "names": {
+    "en": "Paranormal Case Files",
+    "ko": "심령 사건 기록: 조사관의 수첩",
+    "ja": "心霊事件ファイル：調査員の手帖",
+    "pt": "Arquivos Paranormais: Diário do Investigador",
+    "ru": "Паранормальные дела: дневник исследователя",
+    "de": "Paranormale Fallakten: Ermittlerjournal",
+    "hi": "पैरानॉर्मल केस फ़ाइलें: जाँचकर्ता की डायरी",
+    "vi": "Hồ Sơ Vụ Án Tâm Linh: Sổ Tay Điều Tra",
+    "fr": "Dossiers paranormaux : journal d\\'enquêteur"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.paranormalcasefiles.png",
+   "group": "horror"
+  }
+ ]
+}

@@ -16,71 +16,8 @@
     "fr": "Planche Ouija"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ouijaboard.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.kokkurisan",
-   "names": {
-    "en": "Kokkuri-san",
-    "ko": "분신사바",
-    "ja": "コックリさん",
-    "pt": "Kokkuri-san",
-    "ru": "Коккури-сан",
-    "de": "Kokkuri-san",
-    "hi": "कोक्कुरी-सान",
-    "vi": "Kokkuri-san",
-    "fr": "Kokkuri-san"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.kokkurisan.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.charliecharlie",
-   "names": {
-    "en": "Charlie Charlie Challenge",
-    "ko": "찰리 찰리 챌린지",
-    "ja": "チャーリー・チャーリー・チャレンジ",
-    "pt": "Charlie Charlie Challenge",
-    "ru": "Чарли Чарли Челлендж",
-    "de": "Charlie Charlie Challenge",
-    "hi": "चार्ली चार्ली चैलेंज",
-    "vi": "Charlie Charlie Challenge",
-    "fr": "Charlie Charlie Challenge"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.charliecharlie.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.monkeyspaw",
-   "names": {
-    "en": "The Monkey's Paw",
-    "ko": "원숭이 손",
-    "ja": "猿の手",
-    "pt": "A Pata do Macaco",
-    "ru": "Обезьянья лапка",
-    "de": "Die Affenpfote",
-    "hi": "बंदर का पंजा",
-    "vi": "Bàn tay khỉ",
-    "fr": "La Patte de singe"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.monkeyspaw.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.midnightgame",
-   "names": {
-    "en": "The Midnight Game",
-    "ko": "미드나잇 게임",
-    "ja": "ミッドナイトゲーム",
-    "pt": "The Midnight Game",
-    "ru": "The Midnight Game",
-    "de": "The Midnight Game",
-    "hi": "The Midnight Game",
-    "vi": "The Midnight Game",
-    "fr": "The Midnight Game"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.midnightgame.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 1
   },
   {
    "id": "com.sukiappstudio.onewishwillow",
@@ -96,7 +33,25 @@
     "fr": "One Wish Willow"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.onewishwillow.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 2
+  },
+  {
+   "id": "com.sukiappstudio.charliecharlie",
+   "names": {
+    "en": "Charlie Charlie Challenge",
+    "ko": "찰리 찰리 챌린지",
+    "ja": "チャーリー・チャーリー・チャレンジ",
+    "pt": "Charlie Charlie Challenge",
+    "ru": "Чарли Чарли Челлендж",
+    "de": "Charlie Charlie Challenge",
+    "hi": "चार्ली चार्ली चैलेंज",
+    "vi": "Charlie Charlie Challenge",
+    "fr": "Charlie Charlie Challenge"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.charliecharlie.png",
+   "group": "horror",
+   "rank": 3
   },
   {
    "id": "com.sukiappstudio.hanakosan",
@@ -112,7 +67,59 @@
     "fr": "Hanako-san"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hanakosan.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 4
+  },
+  {
+   "id": "com.sukiappstudio.kokkurisan",
+   "names": {
+    "en": "Kokkuri-san",
+    "ko": "분신사바",
+    "ja": "コックリさん",
+    "pt": "Kokkuri-san",
+    "ru": "Коккури-сан",
+    "de": "Kokkuri-san",
+    "hi": "कोक्कुरी-सान",
+    "vi": "Kokkuri-san",
+    "fr": "Kokkuri-san"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.kokkurisan.png",
+   "group": "horror",
+   "rank": 5
+  },
+  {
+   "id": "com.sukiappstudio.midnightgame",
+   "names": {
+    "en": "The Midnight Game",
+    "ko": "미드나잇 게임",
+    "ja": "ミッドナイトゲーム",
+    "pt": "The Midnight Game",
+    "ru": "The Midnight Game",
+    "de": "The Midnight Game",
+    "hi": "The Midnight Game",
+    "vi": "The Midnight Game",
+    "fr": "The Midnight Game"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.midnightgame.png",
+   "group": "horror",
+   "rank": 6
+  },
+  {
+   "id": "com.sukiappstudio.monkeyspaw",
+   "names": {
+    "en": "The Monkey's Paw",
+    "ko": "원숭이 손",
+    "ja": "猿の手",
+    "pt": "A Pata do Macaco",
+    "ru": "Обезьянья лапка",
+    "de": "Die Affenpfote",
+    "hi": "बंदर का पंजा",
+    "vi": "Bàn tay khỉ",
+    "fr": "La Patte de singe"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.monkeyspaw.png",
+   "group": "horror",
+   "rank": 7
   },
   {
    "id": "com.sukiappstudio.satorukun",
@@ -128,7 +135,8 @@
     "fr": "Satoru-kun"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.satorukun.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 8
   },
   {
    "id": "com.sukiappstudio.kisaragistation",
@@ -144,152 +152,8 @@
     "fr": "Gare de Kisaragi"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.kisaragistation.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.krampusnacht",
-   "names": {
-    "en": "Krampusnacht: The Naughty List",
-    "ko": "크람푸스의 밤: 나쁜 아이 명단",
-    "ja": "クランプスの夜: 悪い子リスト",
-    "pt": "Krampusnacht: A Lista Negra",
-    "ru": "Крампуснахт: чёрный список",
-    "de": "Krampusnacht: Die schwarze Liste",
-    "hi": "Krampusnacht: काली सूची",
-    "vi": "Krampusnacht: Danh sách đen",
-    "fr": "Krampusnacht : La liste noire"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.krampusnacht.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.ghostphoto",
-   "names": {
-    "en": "Ghost Photo: Haunted Frame",
-    "ko": "유령 사진: 심령 사진관",
-    "ja": "ゴーストフォト：心霊写真館",
-    "pt": "Foto Fantasma: Quadro Maldito",
-    "ru": "Фото призрака: Проклятый кадр",
-    "de": "Geisterfoto: Der Spukrahmen",
-    "hi": "घोस्ट फ़ोटो: हॉन्टेड फ़्रेम",
-    "vi": "Ảnh Ma: Khung Hình Bị Ám",
-    "fr": "Photo Fantôme : Cadre Hanté"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostphoto.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.seancemessenger",
-   "names": {
-    "en": "Séance Messenger",
-    "ko": "강령 메신저",
-    "ja": "交霊メッセンジャー",
-    "pt": "Mensageiro da Sessão",
-    "ru": "Спиритический мессенджер",
-    "de": "Séance Messenger",
-    "hi": "आत्मा संदेशवाहक",
-    "vi": "Tin Nhắn Gọi Hồn",
-    "fr": "Messager de Séance"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.seancemessenger.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.darumasan",
-   "names": {
-    "en": "Daruma-san",
-    "ko": "다루마상",
-    "ja": "だるまさん",
-    "pt": "Daruma-san",
-    "ru": "Дарума-сан",
-    "de": "Daruma-san",
-    "hi": "दारुमा-सान",
-    "vi": "Daruma-san",
-    "fr": "Daruma-san"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.darumasan.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.spiritflashlight",
-   "names": {
-    "en": "Spirit Flashlight",
-    "ko": "영혼의 손전등",
-    "ja": "霊の懐中電灯",
-    "pt": "Lanterna dos Espíritos",
-    "ru": "Фонарик духов",
-    "de": "Geister-Taschenlampe",
-    "hi": "आत्मा की टॉर्च",
-    "vi": "Đèn Pin Linh Hồn",
-    "fr": "Lampe des Esprits"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritflashlight.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.veronicamirror",
-   "names": {
-    "en": "Verónica: Scissors Mirror",
-    "es": "Verónica: Espejo de Tijeras",
-    "ko": "베로니카: 가위와 거울",
-    "ja": "ベロニカ：鋏と鏡の儀式",
-    "pt": "Verónica: Espelho e Tesoura",
-    "ru": "Вероника: зеркало и ножницы",
-    "de": "Verónica: Scherenspiegel",
-    "hi": "वेरोनिका: कैंची और आईना",
-    "vi": "Verónica: Gương Và Kéo",
-    "fr": "Verónica : miroir aux ciseaux"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.veronicamirror.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.hauntedroom",
-   "names": {
-    "en": "Haunted Room: Horror Soundscape",
-    "ko": "유령의 방: 공포 사운드스케이프",
-    "ja": "幽霊の部屋：ホラー・サウンドスケープ",
-    "pt": "Haunted Room: Sons de Terror",
-    "ru": "Haunted Room: звуки ужаса",
-    "de": "Haunted Room: Horror-Klangwelt",
-    "hi": "Haunted Room: डरावनी आवाज़ें",
-    "vi": "Haunted Room: Âm Thanh Kinh Dị",
-    "fr": "Haunted Room : ambiance d'horreur"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hauntedroom.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.possessedvoice",
-   "names": {
-    "en": "Possessed Voice: Horror Voice",
-    "ko": "빙의된 목소리: 공포 음성 변조",
-    "ja": "憑依の声：ホラー ボイスチェンジャー",
-    "pt": "Voz Possuída: Voz de Terror",
-    "ru": "Одержимый голос: хоррор-голос",
-    "de": "Besessene Stimme: Horrorstimme",
-    "hi": "आविष्ट आवाज़: हॉरर वॉइस चेंजर",
-    "vi": "Giọng Bị Ám: Đổi Giọng Kinh Dị",
-    "fr": "Voix Possédée : voix d'horreur"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.possessedvoice.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.scarymaze",
-   "names": {
-    "en": "Steady Hand: The Scary Maze",
-    "ko": "공포 미로: 떨리는 손",
-    "ja": "震える手：恐怖の迷路",
-    "pt": "Mão Firme: Labirinto do Medo",
-    "ru": "Твёрдая рука: Страшный лабиринт",
-    "de": "Ruhige Hand: Das Grusellabyrinth",
-    "hi": "स्टेडी हैंड: डरावनी भूलभुलैया",
-    "vi": "Tay Vững: Mê Cung Kinh Hoàng",
-    "fr": "Main ferme : Le labyrinthe de la peur"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.scarymaze.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 9
   },
   {
    "id": "com.sukiappstudio.ghostradar",
@@ -305,55 +169,25 @@
     "fr": "Ghost Radar : détecteur EMF"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostradar.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 10
   },
   {
-   "id": "com.sukiappstudio.midnighttales",
+   "id": "com.sukiappstudio.crystalball",
    "names": {
-    "en": "Midnight Tales: Horror Chat",
-    "ko": "밤의 괴담: 공포 메신저",
-    "ja": "真夜中の怪談: ホラーチャット",
-    "pt": "Contos da Meia-Noite: Chat",
-    "ru": "Полуночные истории: чат",
-    "de": "Mitternachtsgeschichten: Chat",
-    "hi": "आधी रात की कहानियाँ: चैट",
-    "vi": "Chuyện Lúc Nửa Đêm: Chat",
-    "fr": "Contes de Minuit : Chat"
+    "en": "Crystal Ball: Seer's Tent",
+    "ko": "수정구슬: 점술사의 천막",
+    "ja": "水晶玉: 占い師の天幕",
+    "pt": "Bola de Cristal: Vidente",
+    "ru": "Хрустальный шар: гадание",
+    "de": "Kristallkugel: Wahrsagerin",
+    "hi": "क्रिस्टल बॉल: ज्योतिषी का तंबू",
+    "vi": "Quả Cầu Pha Lê: Lều Tiên Tri",
+    "fr": "Boule de Cristal : Voyance"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.midnighttales.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.dowsingrods",
-   "names": {
-    "en": "Dowsing Rods: Spirit Finder",
-    "ko": "다우징 로드: 영혼 탐지기",
-    "ja": "ダウジングロッド: 霊探知機",
-    "pt": "Dowsing Rods: Busca Espíritos",
-    "ru": "Dowsing Rods: поиск духов",
-    "de": "Dowsing Rods: Geistersucher",
-    "hi": "डाउज़िंग रॉड: आत्मा खोजक",
-    "vi": "Dowsing Rods: Tìm linh hồn",
-    "fr": "Dowsing Rods : esprits cachés"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dowsingrods.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.waxoracle",
-   "names": {
-    "en": "Wax Oracle: Midnight Reading",
-    "ko": "촛농 점: 한밤의 밀랍 점",
-    "ja": "蝋占い: 真夜中の占い",
-    "pt": "Oráculo da Cera: Meia-noite",
-    "ru": "Гадание на воске: полночь",
-    "de": "Wachsgießen: Silvester-Orakel",
-    "hi": "मोम का भविष्य: आधी रात",
-    "vi": "Bói Sáp: Đọc Sáp Nửa Đêm",
-    "fr": "Céromancie : cire de minuit"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.waxoracle.png",
-   "group": "horror"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.crystalball.png",
+   "group": "horror",
+   "rank": 11
   },
   {
    "id": "com.sukiappstudio.spiritglass",
@@ -372,7 +206,8 @@
     "th": "ผีถ้วยแก้ว: เรียกวิญญาณ"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritglass.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 12
   },
   {
    "id": "com.sukiappstudio.juegocopa",
@@ -389,23 +224,8 @@
     "es": "Juego de la Copa: Espíritus"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.juegocopa.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.spiritpendulum",
-   "names": {
-    "en": "Spirit Pendulum: Ask Spirits",
-    "ko": "영혼의 추: 영혼에게 묻는 펜듈럼",
-    "ja": "霊の振り子：霊に問うペンデュラム",
-    "pt": "Pêndulo dos Espíritos: Oráculo",
-    "ru": "Маятник духов: спроси духов",
-    "de": "Geisterpendel – Ja oder Nein",
-    "hi": "आत्मा का पेंडुलम: हाँ या ना",
-    "vi": "Con Lắc Linh Hồn: Hỏi Hồn",
-    "fr": "Pendule des Esprits : Oracle"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritpendulum.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 13
   },
   {
    "id": "com.sukiappstudio.ghostcaller",
@@ -421,7 +241,8 @@
     "fr": "Ghost Caller: Appels d'horreur"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostcaller.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 14
   },
   {
    "id": "com.sukiappstudio.curseddoll",
@@ -437,23 +258,76 @@
     "fr": "Poupée maudite : la veillée"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.curseddoll.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 15
   },
   {
-   "id": "com.sukiappstudio.crystalball",
+   "id": "com.sukiappstudio.midnighttales",
    "names": {
-    "en": "Crystal Ball: Seer's Tent",
-    "ko": "수정구슬: 점술사의 천막",
-    "ja": "水晶玉: 占い師の天幕",
-    "pt": "Bola de Cristal: Vidente",
-    "ru": "Хрустальный шар: гадание",
-    "de": "Kristallkugel: Wahrsagerin",
-    "hi": "क्रिस्टल बॉल: ज्योतिषी का तंबू",
-    "vi": "Quả Cầu Pha Lê: Lều Tiên Tri",
-    "fr": "Boule de Cristal : Voyance"
+    "en": "Midnight Tales: Horror Chat",
+    "ko": "밤의 괴담: 공포 메신저",
+    "ja": "真夜中の怪談: ホラーチャット",
+    "pt": "Contos da Meia-Noite: Chat",
+    "ru": "Полуночные истории: чат",
+    "de": "Mitternachtsgeschichten: Chat",
+    "hi": "आधी रात की कहानियाँ: चैट",
+    "vi": "Chuyện Lúc Nửa Đêm: Chat",
+    "fr": "Contes de Minuit : Chat"
    },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.crystalball.png",
-   "group": "horror"
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.midnighttales.png",
+   "group": "horror",
+   "rank": 16
+  },
+  {
+   "id": "com.sukiappstudio.spiritpendulum",
+   "names": {
+    "en": "Spirit Pendulum: Ask Spirits",
+    "ko": "영혼의 추: 영혼에게 묻는 펜듈럼",
+    "ja": "霊の振り子：霊に問うペンデュラム",
+    "pt": "Pêndulo dos Espíritos: Oráculo",
+    "ru": "Маятник духов: спроси духов",
+    "de": "Geisterpendel – Ja oder Nein",
+    "hi": "आत्मा का पेंडुलम: हाँ या ना",
+    "vi": "Con Lắc Linh Hồn: Hỏi Hồn",
+    "fr": "Pendule des Esprits : Oracle"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritpendulum.png",
+   "group": "horror",
+   "rank": 17
+  },
+  {
+   "id": "com.sukiappstudio.dowsingrods",
+   "names": {
+    "en": "Dowsing Rods: Spirit Finder",
+    "ko": "다우징 로드: 영혼 탐지기",
+    "ja": "ダウジングロッド: 霊探知機",
+    "pt": "Dowsing Rods: Busca Espíritos",
+    "ru": "Dowsing Rods: поиск духов",
+    "de": "Dowsing Rods: Geistersucher",
+    "hi": "डाउज़िंग रॉड: आत्मा खोजक",
+    "vi": "Dowsing Rods: Tìm linh hồn",
+    "fr": "Dowsing Rods : esprits cachés"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dowsingrods.png",
+   "group": "horror",
+   "rank": 18
+  },
+  {
+   "id": "com.sukiappstudio.waxoracle",
+   "names": {
+    "en": "Wax Oracle: Midnight Reading",
+    "ko": "촛농 점: 한밤의 밀랍 점",
+    "ja": "蝋占い: 真夜中の占い",
+    "pt": "Oráculo da Cera: Meia-noite",
+    "ru": "Гадание на воске: полночь",
+    "de": "Wachsgießen: Silvester-Orakel",
+    "hi": "मोम का भविष्य: आधी रात",
+    "vi": "Bói Sáp: Đọc Sáp Nửa Đêm",
+    "fr": "Céromancie : cire de minuit"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.waxoracle.png",
+   "group": "horror",
+   "rank": 19
   },
   {
    "id": "com.sukiappstudio.zenertrials",
@@ -469,23 +343,8 @@
     "fr": "Test ESP : Cartes Zener"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.zenertrials.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.paranormalcasefiles",
-   "names": {
-    "en": "Paranormal Case Files",
-    "ko": "심령 사건 기록: 조사관의 수첩",
-    "ja": "心霊事件ファイル：調査員の手帖",
-    "pt": "Arquivos Paranormais: Diário do Investigador",
-    "ru": "Паранормальные дела: дневник исследователя",
-    "de": "Paranormale Fallakten: Ermittlerjournal",
-    "hi": "पैरानॉर्मल केस फ़ाइलें: जाँचकर्ता की डायरी",
-    "vi": "Hồ Sơ Vụ Án Tâm Linh: Sổ Tay Điều Tra",
-    "fr": "Dossiers paranormaux : journal d\\'enquêteur"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.paranormalcasefiles.png",
-   "group": "horror"
+   "group": "horror",
+   "rank": 20
   }
  ]
 }
