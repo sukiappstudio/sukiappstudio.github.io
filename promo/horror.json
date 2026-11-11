@@ -290,6 +290,186 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.scarymaze.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.ghostradar",
+   "names": {
+    "en": "Ghost Radar: EMF Detector",
+    "ko": "고스트 레이더: EMF 탐지기",
+    "ja": "ゴーストレーダー: EMF探知機",
+    "pt": "Ghost Radar: Detector EMF",
+    "ru": "Ghost Radar: детектор ЭМП",
+    "de": "Ghost Radar: EMF-Detektor",
+    "hi": "घोस्ट रडार: EMF डिटेक्टर",
+    "vi": "Ghost Radar: Máy dò EMF",
+    "fr": "Ghost Radar : détecteur EMF"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostradar.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.midnighttales",
+   "names": {
+    "en": "Midnight Tales: Horror Chat",
+    "ko": "밤의 괴담: 공포 메신저",
+    "ja": "真夜中の怪談: ホラーチャット",
+    "pt": "Contos da Meia-Noite: Chat",
+    "ru": "Полуночные истории: чат",
+    "de": "Mitternachtsgeschichten: Chat",
+    "hi": "आधी रात की कहानियाँ: चैट",
+    "vi": "Chuyện Lúc Nửa Đêm: Chat",
+    "fr": "Contes de Minuit : Chat"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.midnighttales.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.dowsingrods",
+   "names": {
+    "en": "Dowsing Rods: Spirit Finder",
+    "ko": "다우징 로드: 영혼 탐지기",
+    "ja": "ダウジングロッド: 霊探知機",
+    "pt": "Dowsing Rods: Busca Espíritos",
+    "ru": "Dowsing Rods: поиск духов",
+    "de": "Dowsing Rods: Geistersucher",
+    "hi": "डाउज़िंग रॉड: आत्मा खोजक",
+    "vi": "Dowsing Rods: Tìm linh hồn",
+    "fr": "Dowsing Rods : esprits cachés"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dowsingrods.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.waxoracle",
+   "names": {
+    "en": "Wax Oracle: Midnight Reading",
+    "ko": "촛농 점: 한밤의 밀랍 점",
+    "ja": "蝋占い: 真夜中の占い",
+    "pt": "Oráculo da Cera: Meia-noite",
+    "ru": "Гадание на воске: полночь",
+    "de": "Wachsgießen: Silvester-Orakel",
+    "hi": "मोम का भविष्य: आधी रात",
+    "vi": "Bói Sáp: Đọc Sáp Nửa Đêm",
+    "fr": "Céromancie : cire de minuit"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.waxoracle.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.spiritglass",
+   "names": {
+    "en": "Spirit of the Glass: Séance",
+    "ko": "영혼의 유리잔: 분신사바 강령술",
+    "ja": "グラスの霊：コップで降霊術",
+    "pt": "Brincadeira do Copo: Espíritos",
+    "ru": "Дух стакана: вызов духов",
+    "de": "Gläserrücken: Geister rufen",
+    "hi": "गिलास की आत्मा: प्लैंचेट",
+    "vi": "Cầu Cơ: Gọi Hồn Bằng Ly",
+    "fr": "Le Jeu du Verre : Spiritisme",
+    "id": "Jelangkung: Permainan Gelas",
+    "fil": "Spirit of the Glass: Multo",
+    "th": "ผีถ้วยแก้ว: เรียกวิญญาณ"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritglass.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.juegocopa",
+   "names": {
+    "en": "Juego de la Copa: Spirit Cup",
+    "ko": "컵 강령술: 유리컵 교령회",
+    "ja": "コップの降霊術：グラスの交霊会",
+    "pt": "Jogo do Copo: Espíritos",
+    "ru": "Стакан духов: спиритизм",
+    "de": "Gläserrücken: Geisterglas",
+    "hi": "आत्मा का गिलास: आत्मा बुलाएँ",
+    "vi": "Cầu Cơ: Chiếc Ly",
+    "fr": "Le Jeu du Verre : Esprits",
+    "es": "Juego de la Copa: Espíritus"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.juegocopa.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.spiritpendulum",
+   "names": {
+    "en": "Spirit Pendulum: Ask Spirits",
+    "ko": "영혼의 추: 영혼에게 묻는 펜듈럼",
+    "ja": "霊の振り子：霊に問うペンデュラム",
+    "pt": "Pêndulo dos Espíritos: Oráculo",
+    "ru": "Маятник духов: спроси духов",
+    "de": "Geisterpendel – Ja oder Nein",
+    "hi": "आत्मा का पेंडुलम: हाँ या ना",
+    "vi": "Con Lắc Linh Hồn: Hỏi Hồn",
+    "fr": "Pendule des Esprits : Oracle"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritpendulum.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.ghostcaller",
+   "names": {
+    "en": "Ghost Caller: Scary Calls",
+    "ko": "고스트 콜러: 공포 전화",
+    "ja": "ゴーストコーラー: 怖い電話",
+    "pt": "Ghost Caller: Ligações de Medo",
+    "ru": "Ghost Caller: страшные звонки",
+    "de": "Ghost Caller: Horror-Anrufe",
+    "hi": "Ghost Caller: डरावनी कॉल",
+    "vi": "Ghost Caller: Cuộc gọi kinh dị",
+    "fr": "Ghost Caller: Appels d'horreur"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostcaller.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.curseddoll",
+   "names": {
+    "en": "Cursed Doll: Night Keeper",
+    "ko": "저주 인형: 밤의 돌봄",
+    "ja": "呪いの人形: 夜の世話",
+    "pt": "Boneca Amaldiçoada: Vigília",
+    "ru": "Проклятая кукла: ночной уход",
+    "de": "Verfluchte Puppe: Nachtwache",
+    "hi": "शापित गुड़िया: रात की देखभाल",
+    "vi": "Búp Bê Bị Nguyền: Canh Đêm",
+    "fr": "Poupée maudite : la veillée"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.curseddoll.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.crystalball",
+   "names": {
+    "en": "Crystal Ball: Seer's Tent",
+    "ko": "수정구슬: 점술사의 천막",
+    "ja": "水晶玉: 占い師の天幕",
+    "pt": "Bola de Cristal: Vidente",
+    "ru": "Хрустальный шар: гадание",
+    "de": "Kristallkugel: Wahrsagerin",
+    "hi": "क्रिस्टल बॉल: ज्योतिषी का तंबू",
+    "vi": "Quả Cầu Pha Lê: Lều Tiên Tri",
+    "fr": "Boule de Cristal : Voyance"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.crystalball.png",
+   "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.zenertrials",
+   "names": {
+    "en": "ESP Test: Zener Trials",
+    "ko": "초능력 시험: 제너 카드",
+    "ja": "超能力テスト: ゼナーカード",
+    "pt": "Teste ESP: Cartas Zener",
+    "ru": "Тест ESP: карты Зенера",
+    "de": "ESP-Test: Zener-Karten",
+    "hi": "ESP टेस्ट: ज़ेनर कार्ड",
+    "vi": "Bài Test ESP: Thẻ Zener",
+    "fr": "Test ESP : Cartes Zener"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.zenertrials.png",
+   "group": "horror"
   }
  ]
 }
