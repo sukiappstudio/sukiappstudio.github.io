@@ -396,6 +396,23 @@
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.wish1111.png",
    "group": "horror",
    "rank": 23
+  },
+  {
+   "id": "com.sukiappstudio.elevatorgame",
+   "names": {
+    "en": "Elevator Game: Another World",
+    "ko": "엘리베이터 게임: 다른 세계로",
+    "ja": "エレベーターゲーム：異世界へ",
+    "pt": "Elevator Game: Outro Mundo",
+    "ru": "Elevator Game: Другой мир",
+    "de": "Elevator Game: Andere Welt",
+    "hi": "Elevator Game: दूसरी दुनिया",
+    "vi": "Elevator Game: Thế giới khác",
+    "fr": "Elevator Game : L’autre monde"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.elevatorgame.png",
+   "group": "horror",
+   "rank": 24
   }
  ]
 }
