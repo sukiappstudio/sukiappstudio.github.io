@@ -199,6 +199,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.fortunecookie.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.candleoracle",
+   "names": {
+    "en": "Candle Oracle: Flame & Smoke",
+    "ko": "촛불 신탁: 불꽃과 연기",
+    "ja": "キャンドル・オラクル：炎と煙",
+    "pt": "Oráculo da Vela: Chama e Fumaça",
+    "ru": "Оракул свечи: пламя и дым",
+    "de": "Kerzenorakel: Flamme & Rauch",
+    "hi": "कैंडल ओरेकल: लौ और धुआँ",
+    "vi": "Sấm Nến: Lửa và Khói",
+    "fr": "Oracle de la bougie : flamme et fumée"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.candleoracle.png",
+   "group": "mystery"
   }
  ]
 }
