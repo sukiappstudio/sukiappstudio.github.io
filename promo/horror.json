@@ -470,6 +470,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.zenertrials.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.paranormalcasefiles",
+   "names": {
+    "en": "Paranormal Case Files",
+    "ko": "심령 사건 기록: 조사관의 수첩",
+    "ja": "心霊事件ファイル：調査員の手帖",
+    "pt": "Arquivos Paranormais: Diário do Investigador",
+    "ru": "Паранормальные дела: дневник исследователя",
+    "de": "Paranormale Fallakten: Ermittlerjournal",
+    "hi": "पैरानॉर्मल केस फ़ाइलें: जाँचकर्ता की डायरी",
+    "vi": "Hồ Sơ Vụ Án Tâm Linh: Sổ Tay Điều Tra",
+    "fr": "Dossiers paranormaux : journal d\\'enquêteur"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.paranormalcasefiles.png",
+   "group": "horror"
   }
  ]
 }
