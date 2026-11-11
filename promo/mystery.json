@@ -215,6 +215,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.candleoracle.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.luckydayalmanac",
+   "names": {
+    "en": "Lucky Day Almanac",
+    "ko": "길일 달력",
+    "ja": "六曜カレンダー",
+    "pt": "Almanaque dos Dias de Sorte",
+    "ru": "Альманах счастливых дней",
+    "de": "Glückstage-Almanach",
+    "hi": "शुभ दिन पंचांग",
+    "vi": "Lịch Ngày Tốt",
+    "fr": "Almanach des jours fastes"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.luckydayalmanac.png",
+   "group": "mystery"
   }
  ]
 }
