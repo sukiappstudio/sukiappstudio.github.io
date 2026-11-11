@@ -216,6 +216,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.luckydayalmanac.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.oraclebook",
+   "names": {
+    "en": "Oracle Book: Open to a Page",
+    "ko": "운명의 책: 아무 페이지나",
+    "ja": "運命の書：ページをひらく",
+    "pt": "Livro Oráculo: Abra uma Página",
+    "ru": "Книга-оракул: открой страницу",
+    "de": "Orakelbuch: Schlag es auf",
+    "hi": "ओरेकल बुक: कोई भी पन्ना",
+    "vi": "Sách Tiên Tri: Mở Một Trang",
+    "fr": "Livre oracle : ouvrez une page"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.oraclebook.png",
+   "group": "mystery"
   }
  ]
 }
