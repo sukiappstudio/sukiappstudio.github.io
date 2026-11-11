@@ -163,6 +163,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.paranormalcasefiles.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.wishingwell",
+   "names": {
+    "en": "Wishing Well: Toss a Coin",
+    "ko": "소원의 우물: 동전 던지기",
+    "ja": "願いの井戸：コインを投げて",
+    "pt": "Poço dos Desejos: Jogue Moeda",
+    "ru": "Колодец желаний: брось монету",
+    "de": "Wunschbrunnen: Münze werfen",
+    "hi": "मन्नत का कुआँ: सिक्का उछालें",
+    "vi": "Giếng Ước: Thả Đồng Xu",
+    "fr": "Puits à vœux : jetez une pièce"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.wishingwell.png",
+   "group": "horror"
   }
  ]
 }
