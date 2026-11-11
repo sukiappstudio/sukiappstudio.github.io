@@ -258,6 +258,22 @@
       },
       "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hauntedroom.png",
       "group": "horror"
+    },
+    {
+      "id": "com.sukiappstudio.possessedvoice",
+      "names": {
+        "en": "Possessed Voice: Horror Voice",
+        "ko": "빙의된 목소리: 공포 음성 변조",
+        "ja": "憑依の声：ホラー ボイスチェンジャー",
+        "pt": "Voz Possuída: Voz de Terror",
+        "ru": "Одержимый голос: хоррор-голос",
+        "de": "Besessene Stimme: Horrorstimme",
+        "hi": "आविष्ट आवाज़: हॉरर वॉइस चेंजर",
+        "vi": "Giọng Bị Ám: Đổi Giọng Kinh Dị",
+        "fr": "Voix Possédée : voix d'horreur"
+      },
+      "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.possessedvoice.png",
+      "group": "horror"
     }
   ]
 }
