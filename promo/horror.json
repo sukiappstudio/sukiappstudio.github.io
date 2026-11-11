@@ -345,6 +345,57 @@
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.zenertrials.png",
    "group": "horror",
    "rank": 20
+  },
+  {
+   "id": "com.sukiappstudio.cursedcountdown",
+   "names": {
+    "en": "Cursed Countdown: Hollow Watch",
+    "ko": "저주 카운트다운: 속 빈 시계",
+    "ja": "呪いのカウントダウン: 空ろの時計",
+    "pt": "Contagem Amaldiçoada: Relógio",
+    "ru": "Проклятый отсчёт: полые часы",
+    "de": "Verfluchter Countdown: Die Uhr",
+    "hi": "शापित उलटी गिनती: खोखली घड़ी",
+    "vi": "Đếm Ngược Nguyền Rủa",
+    "fr": "Compte à rebours maudit"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.cursedcountdown.png",
+   "group": "horror",
+   "rank": 21
+  },
+  {
+   "id": "com.sukiappstudio.pastlifemirror",
+   "names": {
+    "en": "Past Life Mirror: Regression",
+    "ko": "전생의 거울: 전생 체험",
+    "ja": "前世の鏡: 前世占い・退行体験",
+    "pt": "Espelho de Vidas Passadas",
+    "ru": "Зеркало прошлых жизней",
+    "de": "Spiegel früherer Leben",
+    "hi": "पिछले जन्म का दर्पण",
+    "vi": "Gương Tiền Kiếp: Kiếp Trước",
+    "fr": "Miroir des vies antérieures"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.pastlifemirror.png",
+   "group": "horror",
+   "rank": 22
+  },
+  {
+   "id": "com.sukiappstudio.wish1111",
+   "names": {
+    "en": "11:11 Wish: Make a Wish",
+    "ko": "11:11 소원: 소원 비는 시간",
+    "ja": "11:11 願い事: 願いを封印",
+    "pt": "11:11 Desejo: Faça um Pedido",
+    "ru": "11:11 Желание: Загадай желание",
+    "de": "11:11 Wunsch: Wünsch dir was",
+    "hi": "11:11 इच्छा: मन्नत माँगें",
+    "vi": "11:11 Điều Ước: Ước Nguyện",
+    "fr": "11:11 Vœu : Faites un vœu"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.wish1111.png",
+   "group": "horror",
+   "rank": 23
   }
  ]
 }
