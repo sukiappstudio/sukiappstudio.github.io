@@ -413,6 +413,74 @@
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.elevatorgame.png",
    "group": "horror",
    "rank": 24
+  },
+  {
+   "id": "com.sukiappstudio.bloodymary",
+   "names": {
+    "en": "Bloody Mary",
+    "ko": "블러디 메리",
+    "ja": "ブラッディ・マリー",
+    "pt": "Bloody Mary",
+    "ru": "Кровавая Мэри",
+    "de": "Bloody Mary",
+    "hi": "ब्लडी मैरी",
+    "vi": "Bloody Mary",
+    "fr": "Bloody Mary"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.bloodymary.png",
+   "group": "horror",
+   "rank": 25
+  },
+  {
+   "id": "com.sukiappstudio.threekings",
+   "names": {
+    "en": "Three Kings: 3:33 Ritual",
+    "ko": "쓰리 킹스: 3시 33분의 의식",
+    "ja": "スリーキングス：3時33分の儀式",
+    "pt": "Three Kings: Ritual das 3:33",
+    "ru": "Three Kings: ритуал 3:33",
+    "de": "Three Kings: Ritual um 3:33",
+    "hi": "Three Kings: 3:33 का अनुष्ठान",
+    "vi": "Three Kings: Nghi thức 3:33",
+    "fr": "Three Kings : rituel de 3 h 33"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.threekings.png",
+   "group": "horror",
+   "rank": 26
+  },
+  {
+   "id": "com.sukiappstudio.hitorikakurenbo",
+   "names": {
+    "en": "Hitori Kakurenbo: 3 AM Ritual",
+    "ko": "혼자 숨바꼭질: 새벽 3시의 의식",
+    "ja": "ひとりかくれんぼ：午前3時の儀式",
+    "pt": "Hitori Kakurenbo: Ritual das 3",
+    "ru": "Хитори какурэнбо: ритуал в 3",
+    "de": "Hitori Kakurenbo: Ritual um 3",
+    "hi": "हितोरी काकुरेंबो: 3 बजे",
+    "vi": "Hitori Kakurenbo: 3 giờ sáng",
+    "fr": "Hitori Kakurenbo : rituel 3 h"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hitorikakurenbo.png",
+   "group": "horror",
+   "rank": 27
+  },
+  {
+   "id": "com.sukiappstudio.kuchisakeonna",
+   "names": {
+    "en": "Kuchisake-onna: Am I Pretty?",
+    "ko": "입 찢어진 여자: 나 예뻐?",
+    "ja": "口裂け女：わたし、きれい？",
+    "pt": "Kuchisake-onna: Eu sou bonita?",
+    "ru": "Кутисакэ-онна: Я красивая?",
+    "de": "Kuchisake-onna: Bin ich schön?",
+    "hi": "कुचिसाके-ओन्ना: मैं सुंदर हूँ?",
+    "vi": "Kuchisake-onna: Tôi đẹp không?",
+    "fr": "Kuchisake-onna : Suis-je jolie"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.kuchisakeonna.png",
+   "group": "horror",
+   "rank": 28
   }
  ]
 }
