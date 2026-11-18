@@ -481,6 +481,91 @@
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.kuchisakeonna.png",
    "group": "horror",
    "rank": 28
+  },
+  {
+   "id": "com.sukiappstudio.krampusnacht",
+   "names": {
+    "en": "Krampusnacht: The Naughty List",
+    "ko": "크람푸스의 밤: 나쁜 아이 명단",
+    "ja": "クランプスの夜: 悪い子リスト",
+    "pt": "Krampusnacht: A Lista Negra",
+    "ru": "Крампуснахт: чёрный список",
+    "de": "Krampusnacht: Die schwarze Liste",
+    "hi": "Krampusnacht: काली सूची",
+    "vi": "Krampusnacht: Danh sách đen",
+    "fr": "Krampusnacht : La liste noire"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.krampusnacht.png",
+   "group": "horror",
+   "rank": 29
+  },
+  {
+   "id": "com.sukiappstudio.spiritbox",
+   "names": {
+    "en": "Spirit Box: EVP Radio",
+    "ko": "스피릿 박스",
+    "ja": "スピリットボックス",
+    "pt": "Spirit Box: Rádio EVP",
+    "ru": "Spirit Box: EVP-радио",
+    "de": "Spirit Box: EVP-Radio",
+    "hi": "स्पिरिट बॉक्स",
+    "vi": "Spirit Box: Radio EVP",
+    "fr": "Spirit Box : Radio EVP"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spiritbox.png",
+   "group": "horror",
+   "rank": 30
+  },
+  {
+   "id": "com.sukiappstudio.genielamp",
+   "names": {
+    "en": "Genie Lamp: Three Wishes",
+    "ko": "지니 램프: 세 가지 소원",
+    "ja": "ジーニーランプ: 三つの願い",
+    "pt": "Lâmpada do Gênio: 3 Desejos",
+    "ru": "Лампа джинна: три желания",
+    "de": "Dschinn-Lampe: Drei Wünsche",
+    "hi": "जिन्न का चिराग़: तीन इच्छाएँ",
+    "vi": "Đèn Thần: Ba Điều Ước",
+    "fr": "Lampe du Génie : Trois Vœux"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.genielamp.png",
+   "group": "horror",
+   "rank": 31
+  },
+  {
+   "id": "com.sukiappstudio.elsilbon",
+   "names": {
+    "en": "El Silbón: The Whistler",
+    "ko": "휘파람 귀신: 엘 실본",
+    "ja": "口笛の亡霊 エル・シルボン",
+    "pt": "El Silbón: O Assobiador",
+    "ru": "Эль Сильбон: Свистун",
+    "de": "El Silbón: Der Pfeifer",
+    "hi": "एल सिल्बोन: सीटी वाला भूत",
+    "vi": "El Silbón: Hồn Ma Huýt Sáo",
+    "fr": "El Silbón : Le Siffleur"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.elsilbon.png",
+   "group": "horror",
+   "rank": 32
+  },
+  {
+   "id": "com.sukiappstudio.loirabanheiro",
+   "names": {
+    "en": "Loira do Banheiro",
+    "ko": "Loira do Banheiro",
+    "ja": "Loira do Banheiro",
+    "pt": "Loira do Banheiro",
+    "ru": "Loira do Banheiro",
+    "de": "Loira do Banheiro",
+    "hi": "Loira do Banheiro",
+    "vi": "Loira do Banheiro",
+    "fr": "Loira do Banheiro"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.loirabanheiro.png",
+   "group": "horror",
+   "rank": 33
   }
  ]
 }

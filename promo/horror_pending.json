@@ -4,22 +4,6 @@
  "note": "release-ready apps; move into horror.json when live on Play",
  "games": [
   {
-   "id": "com.sukiappstudio.krampusnacht",
-   "names": {
-    "en": "Krampusnacht: The Naughty List",
-    "ko": "크람푸스의 밤: 나쁜 아이 명단",
-    "ja": "クランプスの夜: 悪い子リスト",
-    "pt": "Krampusnacht: A Lista Negra",
-    "ru": "Крампуснахт: чёрный список",
-    "de": "Krampusnacht: Die schwarze Liste",
-    "hi": "Krampusnacht: काली सूची",
-    "vi": "Krampusnacht: Danh sách đen",
-    "fr": "Krampusnacht : La liste noire"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.krampusnacht.png",
-   "group": "horror"
-  },
-  {
    "id": "com.sukiappstudio.ghostphoto",
    "names": {
     "en": "Ghost Photo: Haunted Frame",
