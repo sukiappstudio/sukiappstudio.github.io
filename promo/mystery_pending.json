@@ -280,6 +280,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.moonrite.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.hearthcabin",
+   "names": {
+    "en": "Hearth: Snowbound Cabin",
+    "ko": "난롯가: 눈 속의 오두막",
+    "ja": "暖炉: 雪に閉ざされた小屋",
+    "pt": "Lareira: Cabana na Neve",
+    "ru": "Очаг: хижина в снегах",
+    "de": "Kaminfeuer: Hütte im Schnee",
+    "hi": "अँगीठी: बर्फ़ में घिरा केबिन",
+    "vi": "Lò Sưởi: Nhà Gỗ Giữa Tuyết",
+    "fr": "L'Âtre : chalet sous la neige"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hearthcabin.png",
+   "group": "mystery"
   }
  ]
 }
