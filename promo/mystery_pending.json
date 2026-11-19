@@ -264,6 +264,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.bonesdice.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.moonrite",
+   "names": {
+    "en": "Moon Rite: Full Moon Journal",
+    "ko": "달의 의식: 보름달 일지",
+    "ja": "月の儀式：満月ジャーナル",
+    "pt": "Ritual da Lua: Diário Lunar",
+    "ru": "Лунный ритуал: дневник луны",
+    "de": "Mondritual: Vollmond-Tagebuch",
+    "hi": "चंद्र अनुष्ठान: पूर्णिमा डायरी",
+    "vi": "Nghi Lễ Trăng: Nhật Ký Rằm",
+    "fr": "Rite de la Lune : journal"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.moonrite.png",
+   "group": "mystery"
   }
  ]
 }
