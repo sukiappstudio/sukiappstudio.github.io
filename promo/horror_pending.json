@@ -307,6 +307,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hundredcandles.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.ritualnight",
+   "names": {
+    "en": "Ritual Night: Truth or Dare",
+    "ko": "의식의 밤: 진실 혹은 도전",
+    "ja": "儀式の夜：真実か挑戦か",
+    "pt": "Noite do Ritual: Verdade ou Desafio",
+    "ru": "Ночь ритуала: Правда или действие",
+    "de": "Ritual Night: Wahrheit oder Pflicht",
+    "hi": "रिचुअल नाइट: ट्रुथ ऑर डेयर",
+    "vi": "Đêm Nghi Lễ: Thật hay Thách",
+    "fr": "Ritual Night : Action ou Vérité"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ritualnight.png",
+   "group": "horror"
   }
  ]
 }
