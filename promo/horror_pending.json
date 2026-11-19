@@ -275,6 +275,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.deadsignal.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.hush",
+   "names": {
+    "en": "Hush: Don't Make a Sound",
+    "ko": "쉿: 소리 내지 마",
+    "ja": "シッ…音を立てるな",
+    "pt": "Shh: Não Faça Barulho",
+    "ru": "Тсс: ни звука",
+    "de": "Pssst: Keinen Laut",
+    "hi": "हश: आवाज़ मत करना",
+    "vi": "Hush: Đừng Gây Tiếng Động",
+    "fr": "Chut : pas un bruit"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hush.png",
+   "group": "horror"
   }
  ]
 }
