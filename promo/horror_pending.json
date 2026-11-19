@@ -323,6 +323,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ritualnight.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.starwish",
+   "names": {
+    "en": "Star Wish: Meteor Night",
+    "ko": "별똥별 소원: 유성우의 밤",
+    "ja": "流れ星の願い：流星群の夜",
+    "pt": "Desejo na Estrela Cadente",
+    "ru": "Желание на звезду: звездопад",
+    "de": "Sternschnuppe: Wunschnacht",
+    "hi": "टूटता तारा: उल्का वर्षा की रात",
+    "vi": "Ước Sao Băng: Đêm Mưa Sao Băng",
+    "fr": "Vœu d\\'étoile filante"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.starwish.png",
+   "group": "horror"
   }
  ]
 }
