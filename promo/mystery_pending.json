@@ -232,6 +232,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.oraclebook.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.inkoracle",
+   "names": {
+    "en": "Ink Oracle: Water & Ink",
+    "ko": "잉크 점: 물과 잉크",
+    "ja": "インク占い：水と墨",
+    "pt": "Oráculo da Tinta: Água e Tinta",
+    "ru": "Оракул чернил: вода и тушь",
+    "de": "Tintenorakel: Wasser & Tinte",
+    "hi": "स्याही ओरेकल: पानी और स्याही",
+    "vi": "Bói Mực: Nước và Mực",
+    "fr": "Oracle d'encre : eau et encre"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.inkoracle.png",
+   "group": "mystery"
   }
  ]
 }
