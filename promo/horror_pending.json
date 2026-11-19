@@ -227,6 +227,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dandelionwish.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.puzzlebox",
+   "names": {
+    "en": "Puzzle Box: Collector’s Crate",
+    "ko": "퍼즐 상자: 수집가의 궤",
+    "ja": "パズルボックス：収集家の木箱",
+    "pt": "Caixa de Segredos: o Baú",
+    "ru": "Шкатулка: ящик коллекционера",
+    "de": "Rätselkästchen: Sammlerkiste",
+    "hi": "पहेली बक्सा: संग्राहक का संदूक",
+    "vi": "Hộp Câu Đố: Rương Nhà Sưu Tầm",
+    "fr": "Boîte à secrets : la Caisse"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.puzzlebox.png",
+   "group": "horror"
   }
  ]
 }
