@@ -248,6 +248,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.inkoracle.png",
    "group": "mystery"
+  },
+  {
+   "id": "com.sukiappstudio.bonesdice",
+   "names": {
+    "en": "Bones & Dice: Casting Oracle",
+    "ko": "뼈와 주사위 점: 던져 묻는 신탁",
+    "ja": "骨とサイコロ占い：投げて問う神託",
+    "pt": "Ossos e Dados: O Oráculo",
+    "ru": "Кости и кубики: оракул броска",
+    "de": "Knochen & Würfel: Wurforakel",
+    "hi": "हड्डी और पासे: फेंकने का ओरेकल",
+    "vi": "Xương & Xúc Xắc: Quẻ Gieo",
+    "fr": "Osselets et Dés : l\\'Oracle"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.bonesdice.png",
+   "group": "mystery"
   }
  ]
 }
