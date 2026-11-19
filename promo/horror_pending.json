@@ -259,6 +259,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tabletipping.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.deadsignal",
+   "names": {
+    "en": "Dead Signal: Found Phone",
+    "ko": "Dead Signal: 주운 휴대폰",
+    "ja": "Dead Signal: 拾ったスマホ",
+    "pt": "Dead Signal: Celular Achado",
+    "ru": "Dead Signal: Чужой телефон",
+    "de": "Dead Signal: Das Fundhandy",
+    "hi": "Dead Signal: लावारिस फ़ोन",
+    "vi": "Dead Signal: Điện thoại lạ",
+    "fr": "Dead Signal : Téléphone trouvé"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.deadsignal.png",
+   "group": "horror"
   }
  ]
 }
