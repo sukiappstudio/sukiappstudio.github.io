@@ -179,6 +179,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.nightfallalarm.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.epitaphstone",
+   "names": {
+    "en": "Epitaph: Haunted Gravestone",
+    "ko": "묘비명: 유령의 묘비",
+    "ja": "墓碑銘：呪われた墓石",
+    "pt": "Epitáfio: Lápide Assombrada",
+    "ru": "Эпитафия: проклятое надгробие",
+    "de": "Epitaph: Der Spukgrabstein",
+    "hi": "समाधि-लेख: भुतहा क़ब्र",
+    "vi": "Văn Bia: Mộ Đá Ma Ám",
+    "fr": "Épitaphe : la tombe hantée"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.epitaphstone.png",
+   "group": "horror"
   }
  ]
 }
