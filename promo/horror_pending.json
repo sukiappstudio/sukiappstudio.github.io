@@ -195,6 +195,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.epitaphstone.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.hollowlane",
+   "names": {
+    "en": "The House on Hollow Lane",
+    "ko": "할로우 레인의 집",
+    "ja": "ホロウ・レーンの家",
+    "pt": "A Casa de Hollow Lane",
+    "ru": "Дом на Холлоу-лейн",
+    "de": "Das Haus in der Hollow Lane",
+    "hi": "हॉलो लेन का घर",
+    "vi": "Ngôi nhà ở Hollow Lane",
+    "fr": "La Maison de Hollow Lane"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hollowlane.png",
+   "group": "horror"
   }
  ]
 }
