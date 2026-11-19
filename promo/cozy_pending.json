@@ -18,6 +18,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.snowglobe.png",
    "group": "cozy"
+  },
+  {
+   "id": "com.sukiappstudio.newyearfireworks",
+   "names": {
+    "en": "New Year 2027 Countdown",
+    "ko": "새해 카운트다운 2027 불꽃놀이",
+    "ja": "新年カウントダウン2027 花火",
+    "pt": "Contagem Ano Novo 2027: Fogos",
+    "ru": "Отсчёт до Нового года 2027",
+    "de": "Silvester Countdown 2027",
+    "hi": "नया साल 2027 काउंटडाउन",
+    "vi": "Đếm ngược Năm mới 2027",
+    "fr": "Décompte Nouvel An 2027"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.newyearfireworks.png",
+   "group": "cozy"
   }
  ]
 }
