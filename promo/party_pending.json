@@ -1,0 +1,23 @@
+{
+ "version": 1,
+ "group": "party",
+ "note": "release-ready party/brain apps; move into games.json (casual group) or a party.json when live on Play",
+ "games": [
+  {
+   "id": "com.sukiappstudio.tiltcharades",
+   "names": {
+    "en": "Tilt! Charades",
+    "ko": "기울여! 몸으로 말해요",
+    "ja": "傾けて！ジェスチャーゲーム",
+    "de": "Kipp! Begriffe raten",
+    "fr": "Penche ! Mimes",
+    "es": "¡Inclínalo! Mímica",
+    "pt": "Inclina! Mímica",
+    "it": "Inclina! Mimo",
+    "nl": "Kantel! Uitbeelden"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tiltcharades.png",
+   "group": "party"
+  }
+ ]
+}
