@@ -291,6 +291,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hush.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.hundredcandles",
+   "names": {
+    "en": "Hundred Candles",
+    "ko": "백 개의 촛불",
+    "ja": "百物語",
+    "pt": "Cem Velas",
+    "ru": "Сто свечей",
+    "de": "Hundert Kerzen",
+    "hi": "सौ मोमबत्तियाँ",
+    "vi": "Trăm Ngọn Nến",
+    "fr": "Cent bougies"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hundredcandles.png",
+   "group": "horror"
   }
  ]
 }
