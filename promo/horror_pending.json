@@ -243,6 +243,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.puzzlebox.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.tabletipping",
+   "names": {
+    "en": "Table-Tipping Séance",
+    "ko": "테이블 터닝: 빅토리아 강령회",
+    "ja": "テーブル・ターニング 降霊会",
+    "pt": "Mesa Girante: Séance Vitoriana",
+    "ru": "Столоверчение: сеанс",
+    "de": "Tischrücken: Die Séance",
+    "hi": "टेबल टिपिंग: विक्टोरियाई सेआंस",
+    "vi": "Bàn Xoay: Buổi Gọi Hồn",
+    "fr": "Tables tournantes : la séance"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tabletipping.png",
+   "group": "horror"
   }
  ]
 }
