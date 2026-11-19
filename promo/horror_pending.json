@@ -211,6 +211,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hollowlane.png",
    "group": "horror"
+  },
+  {
+   "id": "com.sukiappstudio.dandelionwish",
+   "names": {
+    "en": "Dandelion Wish: Blow & Wish",
+    "ko": "민들레 소원: 후 불어 소원 빌기",
+    "ja": "たんぽぽの願い：ふうっと吹いて",
+    "pt": "Dente-de-leão: Sopre e Deseje",
+    "ru": "Одуванчик: загадать желание",
+    "de": "Pusteblume: Pusten & Wünschen",
+    "hi": "सिंहपर्णी की मुराद: फूँकें",
+    "vi": "Điều ước bồ công anh: Thổi đi",
+    "fr": "Vœu de Pissenlit : Soufflez"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.dandelionwish.png",
+   "group": "horror"
   }
  ]
 }
