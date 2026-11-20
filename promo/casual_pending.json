@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "group": "casual",
+  "games": [
+    {
+      "id": "com.sukiappstudio.starlight",
+      "names": {
+        "en": "Starlight Observatory: Idle",
+        "ko": "별빛 천문대: 방치형",
+        "ja": "星明かりの天文台：放置ゲーム",
+        "pt": "Observatório Estelar: Idle",
+        "ru": "Звёздная обсерватория: idle",
+        "de": "Sternwarte: Idle-Spiel",
+        "hi": "तारों की वेधशाला: आइडल",
+        "vi": "Đài Thiên Văn Ánh Sao",
+        "fr": "Observatoire des étoiles"
+      },
+      "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.starlight.png",
+      "group": "casual"
+    }
+  ]
+}
