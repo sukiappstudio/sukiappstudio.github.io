@@ -34,6 +34,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.newyearfireworks.png",
    "group": "cozy"
+  },
+  {
+   "id": "com.sukiappstudio.lighthousekeeper",
+   "names": {
+    "en": "Lighthouse Keeper",
+    "ko": "등대지기",
+    "ja": "灯台守",
+    "de": "Leuchtturmwärter",
+    "fr": "Gardien de phare",
+    "es": "Farero",
+    "pt": "Faroleiro",
+    "it": "Guardiano del faro",
+    "nl": "Vuurtorenwachter"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.lighthousekeeper.png",
+   "group": "cozy"
   }
  ]
 }
