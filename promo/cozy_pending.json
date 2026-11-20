@@ -50,6 +50,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.lighthousekeeper.png",
    "group": "cozy"
+  },
+  {
+   "id": "com.sukiappstudio.hundredbonsai",
+   "names": {
+    "en": "Hundred-Year Bonsai",
+    "ko": "백 년 분재",
+    "ja": "百年盆栽",
+    "pt": "Bonsai de Cem Anos",
+    "ru": "Столетний бонсай",
+    "de": "Hundertjähriger Bonsai",
+    "hi": "सौ साल का बोनसाई",
+    "vi": "Bonsai Trăm Năm",
+    "fr": "Bonsaï centenaire"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hundredbonsai.png",
+   "group": "cozy"
   }
  ]
 }
