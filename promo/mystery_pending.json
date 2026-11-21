@@ -300,15 +300,15 @@
   {
    "id": "com.sukiappstudio.blackorb",
    "names": {
-    "en": "Black Orb: Ask the Eight",
-    "ko": "검은 구슬: 여덟 번째 대답",
-    "ja": "黒い宝珠：八つの答え",
-    "pt": "Orbe Negro: Pergunte aos Oito",
-    "ru": "Чёрная сфера: спроси Восьмерых",
-    "de": "Schwarze Kugel: Frag die Acht",
-    "hi": "ब्लैक ऑर्ब: आठ से पूछें",
-    "vi": "Quả Cầu Đen: Hỏi Tám Mặt",
-    "fr": "Orbe noir : demande aux Huit"
+    "en": "Black Orb: Yes No Oracle",
+    "ko": "검은 구슬: 예 아니오 점",
+    "ja": "黒い宝珠：イエスノー占い",
+    "pt": "Orbe Negro: Oráculo Sim Não",
+    "ru": "Чёрная сфера: оракул да нет",
+    "de": "Schwarze Kugel: Ja Nein Orakel",
+    "hi": "ब्लैक ऑर्ब: हाँ या ना ओरेकल",
+    "vi": "Quả Cầu Đen: Bói Có Không",
+    "fr": "Orbe noir : oracle oui ou non"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.blackorb.png",
    "group": "mystery"
