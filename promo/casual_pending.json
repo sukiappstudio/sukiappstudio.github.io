@@ -33,6 +33,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.petwhisper.png",
    "group": "casual"
+  },
+  {
+   "id": "com.sukiappstudio.catplay",
+   "names": {
+    "en": "Cat Games: Laser, Mouse & Fish",
+    "ko": "고양이 게임: 레이저·쥐·물고기",
+    "ja": "猫のゲーム: レーザー・ネズミ・魚",
+    "pt": "Jogos para Gatos: Laser e Rato",
+    "ru": "Игры для кошек: лазер и мышь",
+    "de": "Katzenspiele: Laser & Maus",
+    "hi": "बिल्ली के खेल: लेज़र और चूहा",
+    "vi": "Trò chơi cho mèo: Laser, Chuột",
+    "fr": "Jeux de chat : laser et souris"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.catplay.png",
+   "group": "casual"
   }
  ]
 }
