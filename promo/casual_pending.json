@@ -17,6 +17,22 @@
       },
       "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.starlight.png",
       "group": "casual"
+    },
+    {
+      "id": "com.sukiappstudio.petwhisper",
+      "names": {
+        "en": "Pet Whisper: Cat & Dog Cards",
+        "ko": "반려동물 속마음: 고양이·강아지 카드",
+        "ja": "ペットのひとこと:猫と犬のカード",
+        "pt": "Pet Whisper: Gato e Cão",
+        "ru": "Шёпот питомца: карточки",
+        "de": "Pet Whisper: Katzen & Hunde",
+        "hi": "पेट व्हिस्पर: बिल्ली-कुत्ता",
+        "vi": "Pet Whisper: Thẻ Mèo & Chó",
+        "fr": "Pet Whisper : Chat & Chien"
+      },
+      "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.petwhisper.png",
+      "group": "casual"
     }
   ]
 }
