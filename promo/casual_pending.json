@@ -1,38 +1,38 @@
 {
-  "version": 1,
-  "group": "casual",
-  "games": [
-    {
-      "id": "com.sukiappstudio.starlight",
-      "names": {
-        "en": "Starlight Observatory: Idle",
-        "ko": "별빛 천문대: 방치형",
-        "ja": "星明かりの天文台：放置ゲーム",
-        "pt": "Observatório Estelar: Idle",
-        "ru": "Звёздная обсерватория: idle",
-        "de": "Sternwarte: Idle-Spiel",
-        "hi": "तारों की वेधशाला: आइडल",
-        "vi": "Đài Thiên Văn Ánh Sao",
-        "fr": "Observatoire des étoiles"
-      },
-      "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.starlight.png",
-      "group": "casual"
-    },
-    {
-      "id": "com.sukiappstudio.petwhisper",
-      "names": {
-        "en": "Pet Whisper: Cat & Dog Cards",
-        "ko": "반려동물 속마음: 고양이·강아지 카드",
-        "ja": "ペットのひとこと:猫と犬のカード",
-        "pt": "Pet Whisper: Gato e Cão",
-        "ru": "Шёпот питомца: карточки",
-        "de": "Pet Whisper: Katzen & Hunde",
-        "hi": "पेट व्हिस्पर: बिल्ली-कुत्ता",
-        "vi": "Pet Whisper: Thẻ Mèo & Chó",
-        "fr": "Pet Whisper : Chat & Chien"
-      },
-      "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.petwhisper.png",
-      "group": "casual"
-    }
-  ]
+ "version": 1,
+ "group": "casual",
+ "games": [
+  {
+   "id": "com.sukiappstudio.starlight",
+   "names": {
+    "en": "Starlight Observatory: Idle",
+    "ko": "별빛 천문대: 방치형",
+    "ja": "星明かりの天文台：放置ゲーム",
+    "pt": "Observatório Estelar: Idle",
+    "ru": "Звёздная обсерватория: idle",
+    "de": "Sternwarte: Idle-Spiel",
+    "hi": "तारों की वेधशाला: आइडल",
+    "vi": "Đài Thiên Văn Ánh Sao",
+    "fr": "Observatoire des étoiles"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.starlight.png",
+   "group": "casual"
+  },
+  {
+   "id": "com.sukiappstudio.petwhisper",
+   "names": {
+    "en": "Pet Whisper: Funny Pet Cards",
+    "ko": "반려동물 속마음 카드: 웃긴 뽑기",
+    "ja": "ペットのおもしろカード",
+    "pt": "Pet Whisper: Cartas Divertidas",
+    "ru": "Шёпот питомца: смешные карты",
+    "de": "Pet Whisper: Lustige Karten",
+    "hi": "पेट व्हिस्पर: मज़ेदार कार्ड",
+    "vi": "Pet Whisper: Thẻ Vui Thú Cưng",
+    "fr": "Pet Whisper : Cartes drôles"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.petwhisper.png",
+   "group": "casual"
+  }
+ ]
 }
