@@ -34,6 +34,22 @@
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.neverhaveiever.png",
    "group": "party"
+  },
+  {
+   "id": "com.sukiappstudio.couplequestions",
+   "names": {
+    "en": "Couple Questions",
+    "ko": "커플 문답",
+    "ja": "カップル質問ゲーム",
+    "pt": "Perguntas de Casal",
+    "ru": "Вопросы для пар",
+    "de": "Paarfragen",
+    "hi": "कपल सवाल",
+    "vi": "Hỏi Đáp Đôi Mình",
+    "fr": "Questions de Couple"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.couplequestions.png",
+   "group": "party"
   }
  ]
 }
