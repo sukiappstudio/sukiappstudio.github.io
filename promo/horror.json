@@ -566,6 +566,23 @@
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.loirabanheiro.png",
    "group": "horror",
    "rank": 33
+  },
+  {
+   "id": "com.sukiappstudio.nightwatch",
+   "names": {
+    "en": "Night Watch: Sleep Recorder",
+    "ko": "나이트 워치: 수면 녹음기",
+    "ja": "ナイトウォッチ: 睡眠録音・寝言録音",
+    "pt": "Night Watch: Gravador Noturno",
+    "ru": "Night Watch: ночной диктофон",
+    "de": "Night Watch: Schlafrekorder",
+    "hi": "Night Watch: नींद रिकॉर्डर",
+    "vi": "Night Watch: Ghi âm khi ngủ",
+    "fr": "Night Watch : Enregistreur EVP"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.nightwatch.png",
+   "group": "horror",
+   "rank": 34
   }
  ]
 }
