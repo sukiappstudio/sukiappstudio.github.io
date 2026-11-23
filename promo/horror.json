@@ -583,6 +583,125 @@
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.nightwatch.png",
    "group": "horror",
    "rank": 34
+  },
+  {
+   "id": "com.sukiappstudio.omikujishrine",
+   "names": {
+    "en": "Omikuji: Shrine Fortune",
+    "ko": "오미쿠지: 신사 제비뽑기",
+    "ja": "おみくじ: 神社の御神籤",
+    "pt": "Omikuji: Sorte do Santuário",
+    "ru": "Омикудзи: гадание в храме",
+    "de": "Omikuji: Schrein-Orakel",
+    "hi": "ओमिकुजी: मंदिर की पर्ची",
+    "vi": "Omikuji: Quẻ Xăm Đền Nhật",
+    "fr": "Omikuji : sort du sanctuaire"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.omikujishrine.png",
+   "group": "horror",
+   "rank": 35
+  },
+  {
+   "id": "com.sukiappstudio.ghostlens",
+   "names": {
+    "en": "Ghost Lens: SLS Camera",
+    "ko": "고스트 렌즈: SLS 카메라",
+    "ja": "ゴーストレンズ：SLSカメラ",
+    "pt": "Ghost Lens: Câmera SLS",
+    "ru": "Ghost Lens: SLS-камера",
+    "de": "Ghost Lens: SLS-Kamera",
+    "hi": "Ghost Lens: SLS कैमरा",
+    "vi": "Ghost Lens: Camera SLS",
+    "fr": "Ghost Lens : Caméra SLS"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.ghostlens.png",
+   "group": "horror",
+   "rank": 36
+  },
+  {
+   "id": "com.sukiappstudio.uforadar",
+   "names": {
+    "en": "UFO Radar: Sky Scanner",
+    "ko": "UFO 레이더: 하늘 스캐너",
+    "ja": "UFOレーダー: スカイスキャナー",
+    "pt": "UFO Radar: Scanner do Céu",
+    "ru": "UFO Radar: сканер неба",
+    "de": "UFO Radar: Himmelsscanner",
+    "hi": "UFO रडार: आकाश स्कैनर",
+    "vi": "UFO Radar: Quét Bầu Trời",
+    "fr": "UFO Radar : scanner du ciel"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.uforadar.png",
+   "group": "horror",
+   "rank": 37
+  },
+  {
+   "id": "com.sukiappstudio.jelangkung",
+   "names": {
+    "en": "Jelangkung: Ghost Doll Writing",
+    "ko": "젤랑쿵: 인형 글씨 강령술",
+    "ja": "ジェランクン：人形の自動書記",
+    "pt": "Jelangkung: Boneca que Escreve",
+    "ru": "Джелангкунг: пишущая кукла",
+    "de": "Jelangkung: Die Geisterpuppe",
+    "hi": "जेलंगकुंग: लिखने वाली गुड़िया",
+    "vi": "Jelangkung: Búp bê gọi hồn",
+    "fr": "Jelangkung : poupée qui écrit"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.jelangkung.png",
+   "group": "horror",
+   "rank": 38
+  },
+  {
+   "id": "com.sukiappstudio.spirittree",
+   "names": {
+    "en": "Spirit Tree: Lucky Numbers",
+    "ko": "나무 귀신 행운 번호",
+    "ja": "精霊の木: 幸運の数字",
+    "pt": "Árvore Espiritual da Sorte",
+    "ru": "Дерево духов: числа удачи",
+    "de": "Geisterbaum: Glückszahlen",
+    "hi": "आत्मा का पेड़: भाग्यशाली अंक",
+    "vi": "Cây Thần: Con Số May Mắn",
+    "fr": "Arbre des esprits : numéros"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.spirittree.png",
+   "group": "horror",
+   "rank": 39
+  },
+  {
+   "id": "com.sukiappstudio.hasshakudawn",
+   "names": {
+    "en": "Hasshaku: Until Dawn",
+    "ko": "팔척 귀신: 동틀 때까지",
+    "ja": "八尺様: 夜明けまで",
+    "pt": "Hasshaku: Até o Amanhecer",
+    "ru": "Хассяку: до рассвета",
+    "de": "Hasshaku: Bis zum Morgen",
+    "hi": "हस्शाकु: सुबह होने तक",
+    "vi": "Hasshaku: Đến Rạng Đông",
+    "fr": "Hasshaku : Jusqu'à l'aube"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hasshakudawn.png",
+   "group": "horror",
+   "rank": 40
+  },
+  {
+   "id": "com.sukiappstudio.lightfeather",
+   "names": {
+    "en": "Light as a Feather: Ritual",
+    "ko": "깃털처럼 가볍게: 공중부양 의식",
+    "ja": "羽のように軽く: 浮遊の儀式",
+    "pt": "Leve como uma pena: Ritual",
+    "ru": "Лёгкая как пёрышко: ритуал",
+    "de": "Leicht wie eine Feder: Ritual",
+    "hi": "पंख जैसी हल्की: अनुष्ठान",
+    "vi": "Nhẹ như lông hồng: Nghi thức",
+    "fr": "Légère comme une plume: rituel"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.lightfeather.png",
+   "group": "horror",
+   "rank": 41
   }
  ]
 }
