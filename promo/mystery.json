@@ -18,6 +18,128 @@
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.crystalball.png",
    "group": "mystery",
    "rank": 1
+  },
+  {
+   "id": "com.sukiappstudio.runecast",
+   "names": {
+    "en": "Rune Cast: Norse Oracle",
+    "ko": "룬 점: 북구의 신탁",
+    "ja": "ルーン占い：北欧の神託",
+    "pt": "Runas: Oráculo Nórdico",
+    "ru": "Руны: северный оракул",
+    "de": "Runenwurf: Nordisches Orakel",
+    "hi": "रून कास्ट: नॉर्स ओरेकल",
+    "vi": "Gieo Rune: Lời Sấm Bắc Âu",
+    "fr": "Runes : oracle nordique",
+    "sv": "Runkast: Nordiskt orakel",
+    "nb": "Runekast: Nordisk orakel",
+    "no": "Runekast: Nordisk orakel"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.runecast.png",
+   "group": "mystery",
+   "rank": 2
+  },
+  {
+   "id": "com.sukiappstudio.mirrormirror",
+   "names": {
+    "en": "Mirror, Mirror",
+    "ko": "거울아 거울아",
+    "ja": "鏡よ鏡",
+    "pt": "Espelho, Espelho",
+    "ru": "Свет мой, зеркальце",
+    "de": "Spieglein, Spieglein",
+    "hi": "आईना, आईना",
+    "vi": "Gương Ơi Gương",
+    "fr": "Miroir, mon miroir"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.mirrormirror.png",
+   "group": "mystery",
+   "rank": 3
+  },
+  {
+   "id": "com.sukiappstudio.candleoracle",
+   "names": {
+    "en": "Candle Oracle: Flame & Smoke",
+    "ko": "촛불 신탁: 불꽃과 연기",
+    "ja": "キャンドル・オラクル：炎と煙",
+    "pt": "Oráculo da Vela: Chama e Fumaça",
+    "ru": "Оракул свечи: пламя и дым",
+    "de": "Kerzenorakel: Flamme & Rauch",
+    "hi": "कैंडल ओरेकल: लौ और धुआँ",
+    "vi": "Sấm Nến: Lửa và Khói",
+    "fr": "Oracle de la bougie : flamme et fumée"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.candleoracle.png",
+   "group": "mystery",
+   "rank": 4
+  },
+  {
+   "id": "com.sukiappstudio.oraclebook",
+   "names": {
+    "en": "Oracle Book: Open to a Page",
+    "ko": "운명의 책: 아무 페이지나",
+    "ja": "運命の書：ページをひらく",
+    "pt": "Livro Oráculo: Abra uma Página",
+    "ru": "Книга-оракул: открой страницу",
+    "de": "Orakelbuch: Schlag es auf",
+    "hi": "ओरेकल बुक: कोई भी पन्ना",
+    "vi": "Sách Tiên Tri: Mở Một Trang",
+    "fr": "Livre oracle : ouvrez une page"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.oraclebook.png",
+   "group": "mystery",
+   "rank": 5
+  },
+  {
+   "id": "com.sukiappstudio.inkoracle",
+   "names": {
+    "en": "Ink Oracle: Water & Ink",
+    "ko": "잉크 점: 물과 잉크",
+    "ja": "インク占い：水と墨",
+    "pt": "Oráculo da Tinta: Água e Tinta",
+    "ru": "Оракул чернил: вода и тушь",
+    "de": "Tintenorakel: Wasser & Tinte",
+    "hi": "स्याही ओरेकल: पानी और स्याही",
+    "vi": "Bói Mực: Nước và Mực",
+    "fr": "Oracle d'encre : eau et encre"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.inkoracle.png",
+   "group": "mystery",
+   "rank": 6
+  },
+  {
+   "id": "com.sukiappstudio.bonesdice",
+   "names": {
+    "en": "Bones & Dice: Casting Oracle",
+    "ko": "뼈와 주사위 점: 던져 묻는 신탁",
+    "ja": "骨とサイコロ占い：投げて問う神託",
+    "pt": "Ossos e Dados: O Oráculo",
+    "ru": "Кости и кубики: оракул броска",
+    "de": "Knochen & Würfel: Wurforakel",
+    "hi": "हड्डी और पासे: फेंकने का ओरेकल",
+    "vi": "Xương & Xúc Xắc: Quẻ Gieo",
+    "fr": "Osselets et Dés : l'Oracle"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.bonesdice.png",
+   "group": "mystery",
+   "rank": 7
+  },
+  {
+   "id": "com.sukiappstudio.moonrite",
+   "names": {
+    "en": "Moon Rite: Full Moon Journal",
+    "ko": "달의 의식: 보름달 일지",
+    "ja": "月の儀式：満月ジャーナル",
+    "pt": "Ritual da Lua: Diário Lunar",
+    "ru": "Лунный ритуал: дневник луны",
+    "de": "Mondritual: Vollmond-Tagebuch",
+    "hi": "चंद्र अनुष्ठान: पूर्णिमा डायरी",
+    "vi": "Nghi Lễ Trăng: Nhật Ký Rằm",
+    "fr": "Rite de la Lune : journal"
+   },
+   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.moonrite.png",
+   "group": "mystery",
+   "rank": 8
   }
  ]
 }

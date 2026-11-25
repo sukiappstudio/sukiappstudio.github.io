@@ -4,22 +4,6 @@
  "note": "release-ready cozy/seasonal apps (docs/23 cozy group); move into a cozy.json when live on Play",
  "games": [
   {
-   "id": "com.sukiappstudio.snowglobe",
-   "names": {
-    "en": "Snow Globe Christmas Countdown",
-    "ko": "스노볼 크리스마스 카운트다운",
-    "ja": "スノードーム：クリスマスカウントダウン",
-    "pt": "Globo de Neve: Contagem Natal",
-    "ru": "Снежный шар: адвент-календарь",
-    "de": "Schneekugel: Adventskalender",
-    "hi": "स्नो ग्लोब क्रिसमस काउंटडाउन",
-    "vi": "Quả cầu tuyết: Đếm ngược Noel",
-    "fr": "Boule à neige – Avent de Noël"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.snowglobe.png",
-   "group": "cozy"
-  },
-  {
    "id": "com.sukiappstudio.newyearfireworks",
    "names": {
     "en": "New Year 2027 Countdown",

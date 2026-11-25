@@ -245,22 +245,6 @@
    "group": "horror"
   },
   {
-   "id": "com.sukiappstudio.tabletipping",
-   "names": {
-    "en": "Table-Tipping Séance",
-    "ko": "테이블 터닝: 빅토리아 강령회",
-    "ja": "テーブル・ターニング 降霊会",
-    "pt": "Mesa Girante: Séance Vitoriana",
-    "ru": "Столоверчение: сеанс",
-    "de": "Tischrücken: Die Séance",
-    "hi": "टेबल टिपिंग: विक्टोरियाई सेआंस",
-    "vi": "Bàn Xoay: Buổi Gọi Hồn",
-    "fr": "Tables tournantes : la séance"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.tabletipping.png",
-   "group": "horror"
-  },
-  {
    "id": "com.sukiappstudio.deadsignal",
    "names": {
     "en": "Dead Signal: Found Phone",
@@ -290,22 +274,6 @@
     "fr": "Chut : pas un bruit"
    },
    "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hush.png",
-   "group": "horror"
-  },
-  {
-   "id": "com.sukiappstudio.hundredcandles",
-   "names": {
-    "en": "Hundred Candles",
-    "ko": "백 개의 촛불",
-    "ja": "百物語",
-    "pt": "Cem Velas",
-    "ru": "Сто свечей",
-    "de": "Hundert Kerzen",
-    "hi": "सौ मोमबत्तियाँ",
-    "vi": "Trăm Ngọn Nến",
-    "fr": "Cent bougies"
-   },
-   "icon": "https://sukiappstudio.github.io/promo/icons/com.sukiappstudio.hundredcandles.png",
    "group": "horror"
   },
   {
